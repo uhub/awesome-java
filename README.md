@@ -1,4 +1,4 @@
-#awesome-java
+# awesome-java
 
 A curated list of awesome Java frameworks, libraries and software.
 
@@ -13,863 +13,908 @@ A curated list of awesome Java frameworks, libraries and software.
 * [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 * [alibaba/fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java
 * [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
-* [alibaba/dubbo](https://github.com/alibaba/dubbo) - :loudspeaker: Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.
+* [alibaba/dubbo](https://github.com/alibaba/dubbo) - :loudspeaker: Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabilities.
+* [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 * [realm/realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
 * [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project.
 * [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
-* [square/dagger](https://github.com/square/dagger) - A fast dependency injector for Android and Java.
 * [orhanobut/logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
-* [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
-* [eclipse/vert.x](https://github.com/eclipse/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+* [square/dagger](https://github.com/square/dagger) - A fast dependency injector for Android and Java.
+* [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind
 * [perwendel/spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java
+* [eclipse/vert.x](https://github.com/eclipse/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+* [roughike/BottomBar](https://github.com/roughike/BottomBar) - A custom view component that mimics the new Material Design Bottom Navigation pattern.
+* [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 * [junit-team/junit4](https://github.com/junit-team/junit4) - A programmer-oriented testing framework for Java.
 * [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
 * [prestodb/presto](https://github.com/prestodb/presto) - Distributed SQL query engine for big data
-* [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind
 * [dropwizard/dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 * [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.
 * [kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example
 * [xetorthio/jedis](https://github.com/xetorthio/jedis) - A blazingly small and sane redis java client
 * [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
-* [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 * [Yalantis/uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android
-* [google/j2objc](https://github.com/google/j2objc) - A Java to iOS Objective-C translation tool and runtime.
+* [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 * [google/auto](https://github.com/google/auto) - A collection of source code generators for Java.
-* [evant/gradle-retrolambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
+* [google/j2objc](https://github.com/google/j2objc) - A Java to iOS Objective-C translation tool and runtime.
 * [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+* [evant/gradle-retrolambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
 * [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
-* [facebook/rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app.
 * [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
+* [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+* [facebook/rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app.
 * [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
 * [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
 * [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
-* [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-* [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 * [rzwitserloot/lombok](https://github.com/rzwitserloot/lombok) - Very spicy additions to the Java programming language.
 * [hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
+* [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+* [scribejava/scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 * [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - Side menu with some categories to choose.
 * [square/okio](https://github.com/square/okio) - A modern I/O API for Java
 * [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
-* [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
-* [google/android-classyshark](https://github.com/google/android-classyshark) - Android executables browser
 * [naver/pinpoint](https://github.com/naver/pinpoint) - Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java.
-* [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
+* [google/android-classyshark](https://github.com/google/android-classyshark) - Android executables browser
+* [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
 * [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
+* [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
 * [Yalantis/Phoenix](https://github.com/Yalantis/Phoenix) - Phoenix Pull-to-Refresh
-* [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps
 * [robolectric/robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
 * [orfjackal/retrolambda](https://github.com/orfjackal/retrolambda) - Backport of Java 8's lambda expressions to Java 7, 6 and 5
-* [diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts.
 * [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+* [diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart) - Android library to create charts.
 * [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 * [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
-* [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks
 * [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
+* [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks
 * [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) - You can easily add awesome animated context menu to your app.
 * [JodaOrg/joda-time](https://github.com/JodaOrg/joda-time) - Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
 * [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
-* [johncarl81/parceler](https://github.com/johncarl81/parceler) - :package: Android Parcelables made easy through code generation.
 * [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
-* [jasonross/Nuwa](https://github.com/jasonross/Nuwa) - Nuwa, pure java implementation, can hotfix your android application.
-* [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
-* [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types from JSON Schema (or example JSON) and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc
-* [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
-* [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+* [johncarl81/parceler](https://github.com/johncarl81/parceler) - :package: Android Parcelables made easy through code generation.
 * [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) - A Material design back port of Android's CalendarView
+* [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+* [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Got 60 seconds to give some feedback? Complete the 2017 user survey:
+* [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
+* [jasonross/Nuwa](https://github.com/jasonross/Nuwa) - Nuwa, pure java implementation, can hotfix your android application.
+* [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 * [square/moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 * [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 * [jankotek/mapdb](https://github.com/jankotek/mapdb) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
 * [mcxiaoke/packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - 下一代Android打包工具，100个渠道包只需要10秒钟
-* [Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) - FoldingCell is an expanding content cell inspired by folding paper material
-* [stleary/JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
 * [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
-* [hibernate/hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
-* [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-* [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-* [b3log/solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧。
+* [Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) - FoldingCell is an expanding content cell inspired by folding paper material
+* [b3log/solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧！
 * [redisson/redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, CountDownLatch, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server.
-* [siacs/Conversations](https://github.com/siacs/Conversations) - Conversations is an open source XMPP/Jabber client for the Android platform
-* [rengwuxian/RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - RxJava 和 Retrofit 结合使用的几个最常见使用方式举例
-* [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8
+* [stleary/JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
+* [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+* [hibernate/hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
 * [hankcs/HanLP](https://github.com/hankcs/HanLP) - 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换
+* [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8
+* [rengwuxian/RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - RxJava 和 Retrofit 结合使用的几个最常见使用方式举例
+* [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+* [siacs/Conversations](https://github.com/siacs/Conversations) - Conversations is an open source XMPP/Jabber client for the Android platform
 * [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - a simple cache for android and java
 * [Yalantis/GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) - Neat library, that provides a simple way to implement guillotine-styled animation
-* [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 * [kevinsawicki/http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
-* [biezhi/blade](https://github.com/biezhi/blade) - :rocket: A Simple, Elegant Java Web Framework! website →
+* [biezhi/blade](https://github.com/biezhi/blade) - :rocket: a aimple, elegant mvc framework! website →
+* [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
+* [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
 * [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open Source In-Memory Data Grid
 * [yusuke/twitter4j](https://github.com/yusuke/twitter4j) - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
-* [yusugomori/DeepLearning](https://github.com/yusugomori/DeepLearning) - Deep Learning (Python, C, C++, Java, Scala, Go)
-* [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
-* [pedrovgs/Algorithms](https://github.com/pedrovgs/Algorithms) - Solutions for some common algorithm problems written in Java.
-* [cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid) - UltimateAndroid is a rapid development framework for developing your apps
 * [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Boxfuse • Database Migrations Made Easy.
+* [yusugomori/DeepLearning](https://github.com/yusugomori/DeepLearning) - Deep Learning (Python, C, C++, Java, Scala, Go)
+* [pedrovgs/Algorithms](https://github.com/pedrovgs/Algorithms) - Solutions for some common algorithm problems written in Java.
 * [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
-* [square/wire](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [jersey/jersey](https://github.com/jersey/jersey) - This is an active mirror of Jersey 3.x workspace from http://jersey.java.net. Any changes made here are automatically propagated to java.net and vice versa. Forks and pull requests are welcome!
-* [bytedeco/javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
 * [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
+* [square/wire](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
+* [cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid) - UltimateAndroid is a rapid development framework for developing your apps
+* [bytedeco/javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java.
-* [socketio/socket.io-client-java](https://github.com/socketio/socket.io-client-java) - Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.
-* [Yalantis/Euclid](https://github.com/Yalantis/Euclid) - User Profile Interface Animation
-* [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-* [yasserg/crawler4j](https://github.com/yasserg/crawler4j) - Open Source Web Crawler for Java
-* [requery/requery](https://github.com/requery/requery) - requery - modern SQL based query & persistence for Java / Kotlin / Android
-* [gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) -  安卓选择器类库，包括日期选择器、时间选择器、单项选择器、城市地址选择器、车牌号选择器、数字选择器、星座选择器、生肖选择器、颜色选择器、文件选择器、目录选择器等，可自定义顶部及底部界面，可自定义窗口动画……Picker for android, include date&time/option/number/address/city/color/file&directory.
-* [square/tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
-* [jfinal/jfinal](https://github.com/jfinal/jfinal) - JAVA WEB + ORM Framework
+* [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning API For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles...)
 * [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-* [chanjarster/weixin-java-tools](https://github.com/chanjarster/weixin-java-tools) - 微信公众号、企业号Java SDK
-* [mongodb/mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - The Java driver for MongoDB
-* [spotify/helios](https://github.com/spotify/helios) - Docker container orchestration platform
+* [socketio/socket.io-client-java](https://github.com/socketio/socket.io-client-java) - Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.
+* [gogopop/BlurKit-Android](https://github.com/gogopop/BlurKit-Android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS.
+* [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+* [gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) -  安卓选择器类库，包括日期选择器、时间选择器、单项选择器、城市地址选择器、车牌号选择器、数字选择器、星座选择器、生肖选择器、颜色选择器、文件选择器、目录选择器等，可自定义顶部及底部界面，可自定义窗口动画……Picker for android, include date&time/option/number/address/city/color/file&directory.
 * [florent37/ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run !
+* [yasserg/crawler4j](https://github.com/yasserg/crawler4j) - Open Source Web Crawler for Java
+* [Yalantis/Euclid](https://github.com/Yalantis/Euclid) - User Profile Interface Animation
+* [requery/requery](https://github.com/requery/requery) - requery - modern SQL based query & persistence for Java / Kotlin / Android
+* [jfinal/jfinal](https://github.com/jfinal/jfinal) - JAVA WEB + ORM Framework
+* [square/tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
+* [chanjarster/weixin-java-tools](https://github.com/chanjarster/weixin-java-tools) - 微信公众号、企业号Java SDK
 * [javaee-samples/javaee7-samples](https://github.com/javaee-samples/javaee7-samples) - Java EE 7 Samples
+* [mongodb/mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - The Java driver for MongoDB
 * [mrniko/netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
-* [oblac/jodd](https://github.com/oblac/jodd) - Jodd! light open-source Java micro-frameworks and tools: tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb
-* [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is an innovative solution for a better integration of Java applications with popular databases like Oracle, Microsoft SQL Server, IBM DB2, or SAP Sybase. When using jOOQ, our customers benefit from a significant added value and ROI as their software developers can express database queries in a much simpler and faster way. From our experience, this leads to a 10% - 20% decrease of programming effort, which again leads to higher quality and to a lower error rate in program code, and thus in the entire application.
-* [Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - This project aims to provide a working page flip implementation for usage in ListView.
-* [ninjaframework/ninja](https://github.com/ninjaframework/ninja) - Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
+* [spotify/helios](https://github.com/spotify/helios) - Docker container orchestration platform
 * [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
+* [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is an innovative solution for a better integration of Java applications with popular databases like Oracle, Microsoft SQL Server, IBM DB2, or SAP Sybase. When using jOOQ, our customers benefit from a significant added value and ROI as their software developers can express database queries in a much simpler and faster way. From our experience, this leads to a 10% - 20% decrease of programming effort, which again leads to higher quality and to a lower error rate in program code, and thus in the entire application.
+* [oblac/jodd](https://github.com/oblac/jodd) - Jodd! light open-source Java micro-frameworks and tools: tools + ioc + mvc + db + aop + tx + json + html < 1.7 Mb
+* [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
+* [Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - This project aims to provide a working page flip implementation for usage in ListView.
+* [javaslang/javaslang](https://github.com/javaslang/javaslang) - Javaslang is an object-functional language extension to Java 8, which aims to reduce the lines of code and increase code quality. It provides persistent collections, functional abstractions for error handling, concurrent programming, pattern matching and much more.  Javaslang fuses the power of object-oriented programming with the elegance and robustness of functional programming. The most interesting part is a feature-rich, persistent collection library that smoothly integrates with Java's standard collections.
+* [ninjaframework/ninja](https://github.com/ninjaframework/ninja) - Ninja is a full stack web framework for Java. Rock solid, fast and super productive.
 * [chewiebug/GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 * [crate/crate](https://github.com/crate/crate) - CrateDB: The fast, scalable, easy to use SQL database with native full text search
 * [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
-* [javaslang/javaslang](https://github.com/javaslang/javaslang) - Javaslang is an object-functional language extension to Java 8, which aims to reduce the lines of code and increase code quality. It provides persistent collections, functional abstractions for error handling, concurrent programming, pattern matching and much more.  Javaslang fuses the power of object-oriented programming with the elegance and robustness of functional programming. The most interesting part is a feature-rich, persistent collection library that smoothly integrates with Java's standard collections.
-* [spring-projects/spring-loaded](https://github.com/spring-projects/spring-loaded) - Java agent that enables class reloading in a running JVM
 * [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV and more
-* [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 2.3+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
-* [klinker24/Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android.
-* [notnoop/java-apns](https://github.com/notnoop/java-apns) - Java Apple Push Notification Service Provider
-* [jayway/JsonPath](https://github.com/jayway/JsonPath) - Java JsonPath implementation
+* [spring-projects/spring-loaded](https://github.com/spring-projects/spring-loaded) - Java agent that enables class reloading in a running JVM
+* [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
 * [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
+* [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
+* [klinker24/Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) - 100% open source version of my popular Talon for Twitter app on Android.
+* [gogopop/CameraKit-Android](https://github.com/gogopop/CameraKit-Android) - One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.
+* [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included
+* [notnoop/java-apns](https://github.com/notnoop/java-apns) - Java Apple Push Notification Service Provider
+* [otale/tale](https://github.com/otale/tale) - 🦄 best beautiful java blog, worth a try
 * [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 * [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
-* [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included
+* [OpenGrok/OpenGrok](https://github.com/OpenGrok/OpenGrok) - Main {OpenGrok git repository
 * [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 * [redsolution/xabber-android](https://github.com/redsolution/xabber-android) - Open-source XMPP client for Android
 * [Yalantis/Taurus](https://github.com/Yalantis/Taurus) - A little more fun for the pull-to-refresh interaction.
-* [mmin18/FlexLayout](https://github.com/mmin18/FlexLayout) - A powerful Android layout view that use java expression in layout params to describe relative positions.
 * [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
 * [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3D game development suite written purely in Java.
-* [VerbalExpressions/JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Java regular expressions made easy.
-* [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payment Platform
-* [nutzam/nutz](https://github.com/nutzam/nutz) - Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer
+* [mmin18/FlexLayout](https://github.com/mmin18/FlexLayout) - A powerful Android layout view that use java expression in layout params to describe relative positions.
 * [Yalantis/Horizon](https://github.com/Yalantis/Horizon) - Horizon - Simple visual equaliser for Android
+* [nutzam/nutz](https://github.com/nutzam/nutz) - Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer
+* [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payment Platform
 * [r0adkll/Slidr](https://github.com/r0adkll/Slidr) - Easily add slide to dismiss functionality to an Activity
+* [VerbalExpressions/JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Java regular expressions made easy.
 * [square/sqldelight](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
-* [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
+* [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 * [eclipse/jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+* [igniterealtime/Smack](https://github.com/igniterealtime/Smack) - A highly modular and portable open source XMPP client library written in Java for JVMs (JavaSE) and Android
 * [majidgolshadi/Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - Android/Java download manager library help you to download files in parallel mechanism in some chunks.
-* [igniterealtime/Smack](https://github.com/igniterealtime/Smack) - A highly modular and portable open source XMPP client library written in Java for JVMs and Android
+* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * [Ramotion/paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - PaperOnboarding is a material design slider
+* [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 * [jitsi/jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, AIM/ICQ, IRC and many other useful features.
 * [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ
-* [gitblit/gitblit](https://github.com/gitblit/gitblit) - pure java git solution
-* [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
-* [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
-* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * [phishman3579/java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation) - Algorithms and Data Structures implemented in Java
-* [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
-* [Yalantis/pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - Custom animated pull-to-refresh that can be easily added to RecyclerView
+* [gitblit/gitblit](https://github.com/gitblit/gitblit) - pure java git solution
+* [b3log/symphony](https://github.com/b3log/symphony) - :notes: A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。
 * [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
-* [google/jimfs](https://github.com/google/jimfs) - An in-memory file system for Java 7+
-* [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Keep track of your favorite TV shows and movies on your Android devices.
-* [tdebatty/java-string-similarity](https://github.com/tdebatty/java-string-similarity) - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...
+* [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
+* [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 * [VictorAlbertos/RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
-* [Instagram/ig-json-parser](https://github.com/Instagram/ig-json-parser) - Fast JSON parser for java projects
-* [b3log/symphony](https://github.com/b3log/symphony) - :notes: A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。
+* [Yalantis/pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - Custom animated pull-to-refresh that can be easily added to RecyclerView
+* [tdebatty/java-string-similarity](https://github.com/tdebatty/java-string-similarity) - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...
+* [google/jimfs](https://github.com/google/jimfs) - An in-memory file system for Java 7+
 * [powermock/powermock](https://github.com/powermock/powermock) - PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
-* [sirthias/pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions
+* [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Keep track of your favorite TV shows and movies on your Android devices.
+* [amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
 * [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - An open source routing library and server using OpenStreetMap. #route #planner
-* [Grover-c13/PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon Go API
 * [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - A XMPP server licensed under the Open Source Apache License.
-* [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining) - Training course repository for android app development
+* [Instagram/ig-json-parser](https://github.com/Instagram/ig-json-parser) - Fast JSON parser for java projects
+* [qdrzwd/VideoRecorder](https://github.com/qdrzwd/VideoRecorder) - android视频录制，模仿微视，支持按下录制、抬起暂停。进度条断点显示。
+* [sirthias/pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions
+* [j256/ormlite-android](https://github.com/j256/ormlite-android) - ORMLite Android functionality used in conjunction with ormlite-core
 * [mongodb/morphia](https://github.com/mongodb/morphia) - MongoDB object-document mapper in Java based on https://github.com/mongodb/mongo-java-driver
-* [Mashape/unirest-java](https://github.com/Mashape/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
+* [heinrichreimer/material-intro](https://github.com/heinrichreimer/material-intro) - A simple material design app intro with cool animations and a fluent API.
+* [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining) - Training course repository for android app development
 * [klinker24/Android-TextView-LinkBuilder](https://github.com/klinker24/Android-TextView-LinkBuilder) - Insanely easy way to define clickable links within a TextView.
-* [HeinrichReimer/material-intro](https://github.com/HeinrichReimer/material-intro) - A simple material design app intro with cool animations and a simple API.
+* [Grover-c13/PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon Go API
+* [Mashape/unirest-java](https://github.com/Mashape/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
+* [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+* [albertlatacz/java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java
+* [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
+* [spullara/mustache.java](https://github.com/spullara/mustache.java) - Implementation of mustache.js for Java
+* [jOOQ/jOOR](https://github.com/jOOQ/jOOR) -  jOOR - Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way. The JDK's reflection APIs are hard and verbose to use. Other languages have much simpler constructs to access type meta information at runtime. Let us make Java reflection better.
+* [Red5/red5-server](https://github.com/Red5/red5-server) - Red5 Server core
+* [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
+* [orbit/orbit](https://github.com/orbit/orbit) - Orbit - Virtual actor framework for building distributed systems
 * [peter-lawrey/Java-Chronicle](https://github.com/peter-lawrey/Java-Chronicle) - Java Indexed Record Chronicle
 * [pcpratts/rootbeer1](https://github.com/pcpratts/rootbeer1) - Rootbeer GPU Compiler - Java GPU Programming
-* [spullara/mustache.java](https://github.com/spullara/mustache.java) - Implementation of mustache.js for Java
-* [albertlatacz/java-repl](https://github.com/albertlatacz/java-repl) - Read Eval Print Loop for Java
-* [orbit/orbit](https://github.com/orbit/orbit) - Orbit - Virtual actor framework for building distributed systems
-* [jOOQ/jOOR](https://github.com/jOOQ/jOOR) -  jOOR - Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way. The JDK's reflection APIs are hard and verbose to use. Other languages have much simpler constructs to access type meta information at runtime. Let us make Java reflection better.
-* [bitcoinj/bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
-* [AdoptOpenJDK/jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
 * [hamcrest/JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
-* [ivan-vasilev/neuralnetworks](https://github.com/ivan-vasilev/neuralnetworks) - java deep learning algorithms and deep neural networks with gpu acceleration
-* [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
-* [qiujuer/ImageBlurring](https://github.com/qiujuer/ImageBlurring) - Android blurring image(bitmap) by java and jni.
-* [Red5/red5-server](https://github.com/Red5/red5-server) - Red5 Server core
-* [OryxProject/oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
-* [survivingwithandroid/Surviving-with-android](https://github.com/survivingwithandroid/Surviving-with-android) - Source code related to the posts in the blog
 * [Froussios/Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava
+* [qiujuer/ImageBlurring](https://github.com/qiujuer/ImageBlurring) - Android blurring image(bitmap) by java and jni.
+* [Yalantis/ToDoList](https://github.com/Yalantis/ToDoList) - Micro-Transitions for Smooth Android To-Do List Animations
+* [jberkel/sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
+* [ivan-vasilev/neuralnetworks](https://github.com/ivan-vasilev/neuralnetworks) - java deep learning algorithms and deep neural networks with gpu acceleration
+* [OryxProject/oryx](https://github.com/OryxProject/oryx) - Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning
+* [blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader) - Super fast and easy way to create header for Android RecyclerView
+* [survivingwithandroid/Surviving-with-android](https://github.com/survivingwithandroid/Surviving-with-android) - Source code related to the posts in the blog
 * [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
 * [siriscac/RippleView](https://github.com/siriscac/RippleView) - View that imitates Ripple Effect on click which was introduced in Android L  (for Android 2.3+)
-* [blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader) - Super fast and easy way to create header for Android RecyclerView
-* [Yalantis/ToDoList](https://github.com/Yalantis/ToDoList) - Micro-Transitions for Smooth Android To-Do List Animations
 * [JonathanLink/PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - Converts a pdf file into a text file while keeping the layout of the original pdf. Useful to extract the content from a table in a pdf file for instance. This is a subclass of PDFTextStripper class (from the Apache PDFBox library).
-* [puniverse/capsule](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps
+* [iSoron/uhabits](https://github.com/iSoron/uhabits) - Simple habit tracker for Android
+* [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于 spring-boot,mybaits
 * [kairosdb/kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database
 * [EsotericSoftware/kryonet](https://github.com/EsotericSoftware/kryonet) -  TCP/UDP client/server library for Java, based on Kryo
-* [borjabravo10/ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - A Custom TextView with trim text
-* [iSoron/uhabits](https://github.com/iSoron/uhabits) - Simple habit tracker for Android
-* [sirthias/parboiled](https://github.com/sirthias/parboiled) - Elegant parsing in Java and Scala - lightweight, easy-to-use, powerful.
-* [jingle1267/android-utils](https://github.com/jingle1267/android-utils) - It contains most of the Android utility classes.
-* [amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) - RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-* [spotify/apollo](https://github.com/spotify/apollo) - Java libraries for writing composable microservices
-* [greenrobot/essentials](https://github.com/greenrobot/essentials) - General purpose utilities and hash functions for Android and Java (aka java-common)
-* [javaparser/javaparser](https://github.com/javaparser/javaparser) -  Java 1.8 Parser and Abstract Syntax Tree for Java –
-* [Dreampie/Resty](https://github.com/Dreampie/Resty) - The minimalist framework of RESTful(server and client) - Resty
-* [sk89q/WorldEdit](https://github.com/sk89q/WorldEdit) - An in-game voxel map editor for Minecraft
+* [puniverse/capsule](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps
 * [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+* [borjabravo10/ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - A Custom TextView with trim text
+* [galenframework/galen](https://github.com/galenframework/galen) - Layout and functional testing framework for websites
+* [javaparser/javaparser](https://github.com/javaparser/javaparser) -  Java 9 Parser and Abstract Syntax Tree for Java –
+* [jingle1267/android-utils](https://github.com/jingle1267/android-utils) - It contains most of the Android utility classes.
+* [Muddz/StyleableToast](https://github.com/Muddz/StyleableToast) - A library that takes the standard Android toast to the next level with a variety of styling options. Style your toast either from code or styles.xml
+* [spotify/apollo](https://github.com/spotify/apollo) - Java libraries for writing composable microservices
+* [sirthias/parboiled](https://github.com/sirthias/parboiled) - Elegant parsing in Java and Scala - lightweight, easy-to-use, powerful.
+* [Dreampie/Resty](https://github.com/Dreampie/Resty) - The minimalist framework of RESTful(server and client) - Resty
+* [greenrobot/essentials](https://github.com/greenrobot/essentials) - General purpose utilities and hash functions for Android and Java (aka java-common)
+* [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java) - Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
 * [vaadin/framework](https://github.com/vaadin/framework) - Vaadin is a Java framework for building modern web applications that look great, perform well and make you and your users happy.
 * [jamesdbloom/mockserver](https://github.com/jamesdbloom/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
-* [jOOQ/jOOL](https://github.com/jOOQ/jOOL) - jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality around sequential Streams. The JDK 8's main efforts (default methods, lambdas, and the Stream API) were focused around maintaining backwards compatibility and implementing a functional API for parallelism.
-* [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
-* [wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView) - Android滚动选择控件
-* [BuildCraft/BuildCraft](https://github.com/BuildCraft/BuildCraft) - BuildCraft
-* [shekhargulati/strman-java](https://github.com/shekhargulati/strman-java) - A Java 8 string manipulation library.
-* [deeplearning4j/nd4j](https://github.com/deeplearning4j/nd4j) - Fast, Scientific and Numerical Computing for the JVM (NDArrays)
-* [Netflix/astyanax](https://github.com/Netflix/astyanax) - Cassandra Java Client
-* [google/truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
-* [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java) - Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
+* [brianway/webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
 * [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
-* [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
-* [speedment/speedment](https://github.com/speedment/speedment) - Speedment is a Stream ORM Java Toolkit and Runtime
+* [deeplearning4j/nd4j](https://github.com/deeplearning4j/nd4j) - Fast, Scientific and Numerical Computing for the JVM (NDArrays)
+* [jOOQ/jOOL](https://github.com/jOOQ/jOOL) - jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality around sequential Streams. The JDK 8's main efforts (default methods, lambdas, and the Stream API) were focused around maintaining backwards compatibility and implementing a functional API for parallelism.
+* [sk89q/WorldEdit](https://github.com/sk89q/WorldEdit) - An in-game voxel map editor for Minecraft
 * [jdeferred/jdeferred](https://github.com/jdeferred/jdeferred) - Java Deferred/Promise library similar to JQuery.
-* [Muddz/StyleableToast](https://github.com/Muddz/StyleableToast) - A library that takes the standard Android toast to the next level with a variety of styling options. Style your toast either from code or styles.xml
-* [FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android) - A Java ePub reader and parser framework for Android.
-* [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
+* [wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView) - Android滚动选择控件
+* [shekhargulati/strman-java](https://github.com/shekhargulati/strman-java) - A Java 8 string manipulation library.
+* [shekhargulati/java8-the-missing-tutorial](https://github.com/shekhargulati/java8-the-missing-tutorial) - Java 8 for all of us
+* [google/truth](https://github.com/google/truth) - Assertion/Proposition framework for Java unit tests
 * [junit-team/junit5](https://github.com/junit-team/junit5) - The next generation of JUnit.
-* [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-* [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
-* [crossbario/autobahn-android](https://github.com/crossbario/autobahn-android) - WebSocket & WAMP in Java for Android
+* [spring-cloud/spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
+* [BuildCraft/BuildCraft](https://github.com/BuildCraft/BuildCraft) - BuildCraft
+* [qos-ch/logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
+* [Netflix/astyanax](https://github.com/Netflix/astyanax) - Cassandra Java Client
+* [speedment/speedment](https://github.com/speedment/speedment) - Speedment is a Stream ORM Java Toolkit and Runtime
+* [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
 * [zserge/anvil](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React
 * [stagemonitor/stagemonitor](https://github.com/stagemonitor/stagemonitor) - an open source solution to application performance monitoring for java server applications
-* [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
-* [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams access directly from Java. Using provided libraries users are able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.
-* [Gottox/socket.io-java-client](https://github.com/Gottox/socket.io-java-client) - Socket.IO Client Implementation in Java
-* [borjabravo10/FocusResize](https://github.com/borjabravo10/FocusResize) - A custom animation with scroll listener to recycler views
-* [SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView) - An android library which provides a compact calendar view much like the one used in google calenders.
-* [sannies/mp4parser](https://github.com/sannies/mp4parser) - A Java API to read, write and create MP4 files
-* [rapidoid/rapidoid](https://github.com/rapidoid/rapidoid) - Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server!
+* [FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android) - A Java ePub reader and parser framework for Android.
 * [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
+* [sannies/mp4parser](https://github.com/sannies/mp4parser) - A Java API to read, write and create MP4 files
+* [sarxos/webcam-capture](https://github.com/sarxos/webcam-capture) - The goal of this project is to allow integrated or USB-connected webcams access directly from Java. Using provided libraries users are able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.
+* [crossbario/autobahn-android](https://github.com/crossbario/autobahn-android) - WebSocket & WAMP in Java for Android
+* [functionaljava/functionaljava](https://github.com/functionaljava/functionaljava) - Functional programming in Java
 * [tananaev/traccar](https://github.com/tananaev/traccar) - Traccar GPS Tracking System
-* [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
-* [scouter-project/scouter](https://github.com/scouter-project/scouter) - Scouter is an open source APM and an open source profiler for java application like web applications on a tomcat .
-* [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于 spring-boot,mybaits
-* [spring-cloud/spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
-* [FreeTymeKiyan/LeetCode-Sol-Res](https://github.com/FreeTymeKiyan/LeetCode-Sol-Res) - Clean, Understandable Solutions and Resources for LeetCode Online Judge Algorithms Problems.
-* [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.
-* [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
-* [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development
-* [hierynomus/sshj](https://github.com/hierynomus/sshj) - ssh, scp and sftp for java
+* [SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView) - An android library which provides a compact calendar view much like the one used in google calenders.
 * [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) - Java诊断工具
-* [joel-costigliola/assertj-core](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
+* [SpongePowered/SpongeForge](https://github.com/SpongePowered/SpongeForge) - A Forge mod that implements SpongeAPI
+* [Gottox/socket.io-java-client](https://github.com/Gottox/socket.io-java-client) - Socket.IO Client Implementation in Java
+* [rapidoid/rapidoid](https://github.com/rapidoid/rapidoid) - Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server!
+* [borjabravo10/FocusResize](https://github.com/borjabravo10/FocusResize) - A custom animation with scroll listener to recycler views
+* [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
+* [promeG/TinyPinyin](https://github.com/promeG/TinyPinyin) - 适用于Java和Android的快速、低内存占用的汉字转拼音库。
+* [FreeTymeKiyan/LeetCode-Sol-Res](https://github.com/FreeTymeKiyan/LeetCode-Sol-Res) - Clean, Understandable Solutions and Resources for LeetCode Online Judge Algorithms Problems.
+* [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
+* [scouter-project/scouter](https://github.com/scouter-project/scouter) - Scouter is an open source APM and an open source profiler for java application like web applications on a tomcat .
+* [SpongePowered/SpongeAPI](https://github.com/SpongePowered/SpongeAPI) - A Minecraft plugin API
 * [THEONE10211024/RxJavaSamples](https://github.com/THEONE10211024/RxJavaSamples) - 收集了RxJava常见的使用场景，例子简洁、经典、易懂...
+* [hierynomus/sshj](https://github.com/hierynomus/sshj) - ssh, scp and sftp for java
+* [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework) - Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.
+* [mpusher/mpush](https://github.com/mpusher/mpush) - MPush开源实时消息推送系统
 * [aNNiMON/Lightweight-Stream-API](https://github.com/aNNiMON/Lightweight-Stream-API) - Stream API from Java 8 rewritten on iterators for Java 7 and below
-* [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
-* [dieforfree/qart4j](https://github.com/dieforfree/qart4j) - QR code ASCII art for java
-* [cbeust/jcommander](https://github.com/cbeust/jcommander) - Command line parsing framework for Java
-* [microg/android_packages_apps_GmsCore](https://github.com/microg/android_packages_apps_GmsCore) - Implementation of Play Services Core package
-* [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
-* [jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp) - 学习RxJava操作符的APP,新增线程调度说明
-* [stuxuhai/jpinyin](https://github.com/stuxuhai/jpinyin) - JPinyin是一个汉字转拼音的Java开源类库
-* [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
-* [cbeust/testng](https://github.com/cbeust/testng) - TestNG testing framework
-* [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-* [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-* [brianway/webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
+* [joel-costigliola/assertj-core](https://github.com/joel-costigliola/assertj-core) - AssertJ is a library providing easy to use rich typed assertions
 * [auth0/java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT)
+* [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
+* [stuxuhai/jpinyin](https://github.com/stuxuhai/jpinyin) - JPinyin是一个汉字转拼音的Java开源类库
+* [jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp) - 学习RxJava操作符的APP,新增线程调度说明
+* [microg/android_packages_apps_GmsCore](https://github.com/microg/android_packages_apps_GmsCore) - Implementation of Play Services Core package
+* [cbeust/jcommander](https://github.com/cbeust/jcommander) - Command line parsing framework for Java
+* [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+* [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
+* [dieforfree/qart4j](https://github.com/dieforfree/qart4j) - QR code ASCII art for java
+* [cbeust/testng](https://github.com/cbeust/testng) - TestNG testing framework
+* [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
+* [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
+* [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+* [timmolter/XChange](https://github.com/timmolter/XChange) - XChange is a Java library providing a streamlined API for interacting with 50+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
+* [javamelody/javamelody](https://github.com/javamelody/javamelody) - JavaMelody : monitoring of JavaEE applications
 * [flyingsaucerproject/flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer in pure Java
-* [joscha/play-authenticate](https://github.com/joscha/play-authenticate) - An authentication plugin for Play Framework 2.x (Java)
-* [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
+* [menacher/java-game-server](https://github.com/menacher/java-game-server) - Jetserver is a high speed nio socket based multiplayer java game server written using Netty and Mike Rettig's Jetlang.It is specifically tuned for network based multiplayer games and supports TCP and UDP network protocols.
 * [kilim/kilim](https://github.com/kilim/kilim) - Lightweight threads for Java, with message passing, nio, http and scheduling support.
 * [jdbi/jdbi](https://github.com/jdbi/jdbi) - jDBI is designed to provide convenient tabular data access in Java(tm). It uses the Java collections framework for query results, provides a convenient means of externalizing sql statements, and provides named parameter support for any database being used.
-* [DozerMapper/dozer](https://github.com/DozerMapper/dozer) - Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another.
-* [menacher/java-game-server](https://github.com/menacher/java-game-server) - Jetserver is a high speed nio socket based multiplayer java game server written using Netty and Mike Rettig's Jetlang.It is specifically tuned for network based multiplayer games and supports TCP and UDP network protocols.
-* [mpusher/mpush](https://github.com/mpusher/mpush) - MPush开源实时消息推送系统
-* [litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) - LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently.
-* [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console based JVM monitoring
-* [timmolter/XChange](https://github.com/timmolter/XChange) - XChange is a Java library providing a streamlined API for interacting with 50+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
-* [datastax/java-driver](https://github.com/datastax/java-driver) - DataStax Java Driver for Apache Cassandra
-* [promeG/TinyPinyin](https://github.com/promeG/TinyPinyin) - 适用于Java和Android的快速、低内存占用的汉字转拼音库。
-* [javamelody/javamelody](https://github.com/javamelody/javamelody) - JavaMelody : monitoring of JavaEE applications
+* [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
+* [joscha/play-authenticate](https://github.com/joscha/play-authenticate) - An authentication plugin for Play Framework 2.x (Java)
 * [dcevm/dcevm](https://github.com/dcevm/dcevm) - Dynamic Code Evolution VM for Java 7/8
 * [bootique/bootique](https://github.com/bootique/bootique) - Bootique is a minimally opinionated platform for modern runnable Java apps.
 * [searchbox-io/Jest](https://github.com/searchbox-io/Jest) - Elasticsearch Java Rest Client.
-* [bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) - A simple customised version of the TextInputLayout from the Android Design Support Library
-* [good-life/PushTalk](https://github.com/good-life/PushTalk) - 推聊是一个基于极光推送 (JPush) 的手机聊天系统。支持群聊与点对点聊天。当前包括 Android客户端、iOS客户端与 Java服务器端。3分钟就可以整套系统跑起来。
-* [GoogleCloudPlatform/DataflowJavaSDK](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) - Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.
-* [webbit/webbit](https://github.com/webbit/webbit) - A Java event based WebSocket and HTTP server
-* [rkalla/imgscalr](https://github.com/rkalla/imgscalr) - Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
-* [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
+* [litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) - LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently.
+* [datastax/java-driver](https://github.com/datastax/java-driver) - DataStax Java Driver for Apache Cassandra
 * [asLody/legend](https://github.com/asLody/legend) - A framework for hook java methods.
+* [bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) - A simple customised version of the TextInputLayout from the Android Design Support Library
 * [real-logic/Agrona](https://github.com/real-logic/Agrona) - High Performance data structures and utility methods for Java
-* [nginx-clojure/nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
+* [GoogleCloudPlatform/DataflowJavaSDK](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) - Google Cloud Dataflow provides a simple, powerful model for building both batch and streaming parallel data processing pipelines.
+* [good-life/PushTalk](https://github.com/good-life/PushTalk) - 推聊是一个基于极光推送 (JPush) 的手机聊天系统。支持群聊与点对点聊天。当前包括 Android客户端、iOS客户端与 Java服务器端。3分钟就可以整套系统跑起来。
+* [rkalla/imgscalr](https://github.com/rkalla/imgscalr) - Simple Java image-scaling library implementing Chris Campbell's incremental scaling algorithm as well as Java2D's "best-practices" image-scaling techniques.
 * [bitcoin-wallet/bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+* [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see
+* [webbit/webbit](https://github.com/webbit/webbit) - A Java event based WebSocket and HTTP server
+* [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
+* [nginx-clojure/nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
 * [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing offline and batch applications using Spring and Java
-* [dain/leveldb](https://github.com/dain/leveldb) - Port of LevelDB to Java
+* [biezhi/wechat-robot](https://github.com/biezhi/wechat-robot) - 🌏 wechat robot by java application
 * [line/armeria](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift
-* [mpetazzoni/ttorrent](https://github.com/mpetazzoni/ttorrent) - Turn's BitTorrent Java library (tracker and client)
 * [RuedigerMoeller/fast-serialization](https://github.com/RuedigerMoeller/fast-serialization) - FST: fast java serialization drop in-replacement http://ruedigermoeller.github.io/fast-serialization/
-* [aol/micro-server](https://github.com/aol/micro-server) - Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles.
-* [daveclayton/json-schema-validator](https://github.com/daveclayton/json-schema-validator) - A JSON Schema validation implementation in pure Java, which aims for correctness and performance, in that order
-* [atomix/atomix](https://github.com/atomix/atomix) - Wait-free distributed data-structure/coordination framework for building fault tolerant distributed systems on the Raft consensus algorithm
-* [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org[Java]
-* [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android. Available on the Android Market as "GPSLogger for Android"
-* [caoxinyu/RedisClient](https://github.com/caoxinyu/RedisClient) - Java Redis Client GUI Tool
-* [inloop/AndroidViewModel](https://github.com/inloop/AndroidViewModel) - Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
 * [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
-* [biezhi/wechat-robot](https://github.com/biezhi/wechat-robot) - 🍉 wechat robot by java application
-* [alibaba/taokeeper](https://github.com/alibaba/taokeeper) - ZooKeeper-Monitor, a monitor for zookeeper in java. Download https://github.com/alibaba/taokeeper/downloads
-* [jacoco/jacoco](https://github.com/jacoco/jacoco) - :microscope: JaCoCo - Java Code Coverage Library
-* [qos-ch/slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
-* [mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next) - Android Next 公共组件库
-* [flipkart-incubator/proteus](https://github.com/flipkart-incubator/proteus) - Proteus : A JSON based LayoutInflater for Android
-* [twitter/hbc](https://github.com/twitter/hbc) - A Java HTTP client for consuming Twitter's Streaming API
+* [dain/leveldb](https://github.com/dain/leveldb) - Port of LevelDB to Java
+* [mpetazzoni/ttorrent](https://github.com/mpetazzoni/ttorrent) - Turn's BitTorrent Java library (tracker and client)
+* [aol/micro-server](https://github.com/aol/micro-server) - Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles.
 * [netgloo/spring-boot-samples](https://github.com/netgloo/spring-boot-samples) - Spring Boot samples by Netgloo
+* [caoxinyu/RedisClient](https://github.com/caoxinyu/RedisClient) - Java Redis Client GUI Tool
+* [atomix/atomix](https://github.com/atomix/atomix) - Wait-free distributed data-structure/coordination framework for building fault tolerant distributed systems on the Raft consensus algorithm
 * [HotswapProjects/HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Java unlimited redefinition of classes at runtime.
-* [linkedin/PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store written in Java
+* [daveclayton/json-schema-validator](https://github.com/daveclayton/json-schema-validator) - A JSON Schema validation implementation in pure Java, which aims for correctness and performance, in that order
+* [awaitility/awaitility](https://github.com/awaitility/awaitility) - Awaitility is a small Java DSL for synchronizing asynchronous operations
+* [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android. Available on the Android Market as "GPSLogger for Android"
+* [qos-ch/slf4j](https://github.com/qos-ch/slf4j) - Simple Logging Facade for Java
+* [jacoco/jacoco](https://github.com/jacoco/jacoco) - :microscope: JaCoCo - Java Code Coverage Library
+* [msgpack/msgpack-java](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java / msgpack.org[Java]
+* [inloop/AndroidViewModel](https://github.com/inloop/AndroidViewModel) - Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
+* [coobird/thumbnailator](https://github.com/coobird/thumbnailator) - Thumbnailator - a thumbnail generation library for Java
+* [alibaba/taokeeper](https://github.com/alibaba/taokeeper) - ZooKeeper-Monitor, a monitor for zookeeper in java. Download https://github.com/alibaba/taokeeper/downloads
+* [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client
+* [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - High Performance and Scalability framework for Java
+* [steelkiwi/cropiwa](https://github.com/steelkiwi/cropiwa) - 📐 Configurable Custom Crop widget for Android
+* [mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next) - Android Next 公共组件库
+* [Pi4J/pi4j](https://github.com/Pi4J/pi4j) - Java I/O library for Raspberry Pi (GPIO, I2C, SPI, UART)
+* [flipkart-incubator/proteus](https://github.com/flipkart-incubator/proteus) - Proteus : A JSON based LayoutInflater for Android
 * [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 * [cmusphinx/sphinx4](https://github.com/cmusphinx/sphinx4) - Pure Java speech recognition library
-* [Pi4J/pi4j](https://github.com/Pi4J/pi4j) - Java I/O library for Raspberry Pi (GPIO, I2C, SPI, UART)
-* [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client
+* [twitter/hbc](https://github.com/twitter/hbc) - A Java HTTP client for consuming Twitter's Streaming API
+* [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
+* [linkedin/PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store written in Java
 * [plutext/docx4j](https://github.com/plutext/docx4j) - JAXB-based Java library for Word docx, Powerpoint pptx, and Excel xlsx files
-* [coobird/thumbnailator](https://github.com/coobird/thumbnailator) - Thumbnailator - a thumbnail generation library for Java
-* [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - High Performance and Scalability framework for Java
+* [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+* [ysc/QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) - QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。
+* [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 * [crashub/crash](https://github.com/crashub/crash) - The shell for the Java Platform
 * [spring-projects/spring-data-mongodb](https://github.com/spring-projects/spring-data-mongodb) - Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-* [awaitility/awaitility](https://github.com/awaitility/awaitility) - Awaitility is a small Java DSL for synchronizing asynchronous operations
-* [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
-* [ysc/QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) - QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。
-* [facebook/swift](https://github.com/facebook/swift) - An annotation-based Java library for creating Thrift serializable types and services.
-* [h2database/h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
-* [Sable/soot](https://github.com/Sable/soot) - Soot - A Java optimization framework
-* [fesh0r/fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
-* [h4de5ing/AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - 基于Android系统Api封装常用工具类
 * [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
-* [Yalantis/CameraModule](https://github.com/Yalantis/CameraModule) - Simple camera module for android applications
+* [h4de5ing/AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - 基于Android系统Api封装常用工具类
+* [facebook/swift](https://github.com/facebook/swift) - An annotation-based Java library for creating Thrift serializable types and services.
 * [aimacode/aima-java](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
-* [linkedin/parseq](https://github.com/linkedin/parseq) - Asynchronous Java made easier
 * [JeffLi1993/java-core-learning-example](https://github.com/JeffLi1993/java-core-learning-example) - 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。
+* [Sable/soot](https://github.com/Sable/soot) - Soot - A Java optimization framework
+* [deathmarine/Luyten](https://github.com/deathmarine/Luyten) - An Open Source Java Decompiler Gui for Procyon
+* [pzxwhc/MineKnowContainer](https://github.com/pzxwhc/MineKnowContainer) - 个人知识小仓库
+* [youxin11544/MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) - This is an Android MVP model good architecture design，Which also inherited the Android architecture and HTML 5 interaction。（这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式）
+* [Yalantis/CameraModule](https://github.com/Yalantis/CameraModule) - Simple camera module for android applications
+* [Netflix/genie](https://github.com/Netflix/genie) - Federated Big Data Orchestration Service
+* [linkedin/parseq](https://github.com/linkedin/parseq) - Asynchronous Java made easier
+* [square/haha](https://github.com/square/haha) - Java library to automate the analysis of Android heap dumps.
+* [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services.
+* [kiegroup/optaplanner](https://github.com/kiegroup/optaplanner) - Java Constraint Solver to solve vehicle routing, employee rostering and other planning problems.
 * [amznlabs/ion-java](https://github.com/amznlabs/ion-java) -  Java streaming parser/serializer for Ion.
-* [droolsjbpm/optaplanner](https://github.com/droolsjbpm/optaplanner) - Java planning engine: OptaPlanner optimizes business resource scheduling and planning.
 * [leventov/Koloboke](https://github.com/leventov/Koloboke) - Java Collections till the last breadcrumb of memory and performance
 * [ramswaroop/jbot](https://github.com/ramswaroop/jbot) - Make Slack, Facebook and Twitter Bots in Java in minutes.
-* [square/haha](https://github.com/square/haha) - Java library to automate the analysis of Android heap dumps.
-* [deathmarine/Luyten](https://github.com/deathmarine/Luyten) - An Open Source Java Decompiler Gui for Procyon
-* [gwhalin/Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client) - Information about this project lives on the wiki
-* [nicoulaj/idea-markdown](https://github.com/nicoulaj/idea-markdown) - Markdown language support for IntelliJ IDEA (abandonned).
-* [openzipkin/brave](https://github.com/openzipkin/brave) - Java distributed tracing implementation compatible with Zipkin backend services.
-* [youxin11544/MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) - This is an Android MVP model good architecture design，Which also inherited the Android architecture and HTML 5 interaction。（这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式）
-* [kenglxn/QRGen](https://github.com/kenglxn/QRGen) - a simple QRCode generation api for java built on top ZXING
-* [blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView) - An Android library introducing a stack of Views with the first item being flippable.
 * [fusesource/mqtt-client](https://github.com/fusesource/mqtt-client) - A Java MQTT Client
-* [eclipsesource/J2V8](https://github.com/eclipsesource/J2V8) - Java Bindings for V8
+* [ysc/word](https://github.com/ysc/word) - Java分布式中文分词组件 - word分词
 * [zeapo/Android-Password-Store](https://github.com/zeapo/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
-* [write2munish/Akka-Essentials](https://github.com/write2munish/Akka-Essentials) - Java/Scala Examples from the book - Akka Essentials
+* [liyiorg/weixin-popular](https://github.com/liyiorg/weixin-popular) - 微信SDK  JAVA  (公众平台、开放平台、 商户平台、 服务商平台)
+* [bennidi/mbassador](https://github.com/bennidi/mbassador) - A feature-rich Java event bus optimized for high-throughput in multi-threaded environments. Annotation driven, sync/async event publication, weak/strong references, dynamic event filtering
+* [json-iterator/java](https://github.com/json-iterator/java) - jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
+* [eclipsesource/J2V8](https://github.com/eclipsesource/J2V8) - Java Bindings for V8
+* [kenglxn/QRGen](https://github.com/kenglxn/QRGen) - a simple QRCode generation api for java built on top ZXING
+* [gwhalin/Memcached-Java-Client](https://github.com/gwhalin/Memcached-Java-Client) - Information about this project lives on the wiki
+* [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
 * [sword-org/wechat4j](https://github.com/sword-org/wechat4j) - wechat4j is wechat(weixin) develop framework for java 微信开发框架JAVA版，最简单易用微信开发框架
-* [relayrides/pushy](https://github.com/relayrides/pushy) - A Java library for sending APNs (iOS/OS X/Safari) push notifications
-* [KronicDeth/intellij-elixir](https://github.com/KronicDeth/intellij-elixir) - Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
+* [blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView) - An Android library introducing a stack of Views with the first item being flippable.
+* [nicoulaj/idea-markdown](https://github.com/nicoulaj/idea-markdown) - Markdown language support for IntelliJ IDEA (abandonned).
+* [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files
 * [google/google-http-java-client](https://github.com/google/google-http-java-client) - Google HTTP Client Library for Java
 * [fayder/restcountries](https://github.com/fayder/restcountries) - Get information about countries via a RESTful API
-* [webx/citrus](https://github.com/webx/citrus) - Java-based Web Framework for Alibaba Group
-* [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 8 (Build PDF, Epub, Mobi and HTML books, documents and slides)
-* [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files
-* [ysc/word](https://github.com/ysc/word) - Java分布式中文分词组件 - word分词
-* [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) - A Real-Time Audio Processing Framework in Java
-* [bennidi/mbassador](https://github.com/bennidi/mbassador) - A feature-rich Java event bus optimized for high-throughput in multi-threaded environments. Annotation driven, sync/async event publication, weak/strong references, dynamic event filtering
-* [decebals/pippo](https://github.com/decebals/pippo) - Micro Java Web Framework
-* [jfaster/mango](https://github.com/jfaster/mango) - Distributed ORM Framework for Java
 * [googlemaps/google-maps-services-java](https://github.com/googlemaps/google-maps-services-java) - Java client library for Google Maps API Web Services
-* [json-iterator/java](https://github.com/json-iterator/java) - jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
-* [liyiorg/weixin-popular](https://github.com/liyiorg/weixin-popular) - 微信SDK  JAVA  (公众平台、开放平台、 商户平台、 服务商平台)
-* [mp911de/lettuce](https://github.com/mp911de/lettuce) - Advanced Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
-* [anupcowkur/Reservoir](https://github.com/anupcowkur/Reservoir) - Android library to easily serialize and cache your objects to disk using key/value pairs.
-* [aol/cyclops-react](https://github.com/aol/cyclops-react) - An advanced, but easy to use, platform for writing functional applications in Java 8
+* [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 8 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+* [relayrides/pushy](https://github.com/relayrides/pushy) - A Java library for sending APNs (iOS/OS X/Safari) push notifications
+* [KronicDeth/intellij-elixir](https://github.com/KronicDeth/intellij-elixir) - Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
+* [JorenSix/TarsosDSP](https://github.com/JorenSix/TarsosDSP) - A Real-Time Audio Processing Framework in Java
+* [write2munish/Akka-Essentials](https://github.com/write2munish/Akka-Essentials) - Java/Scala Examples from the book - Akka Essentials
+* [webx/citrus](https://github.com/webx/citrus) - Java-based Web Framework for Alibaba Group
+* [codinguser/gnucash-android](https://github.com/codinguser/gnucash-android) - Gnucash for Android mobile companion application.
+* [jfaster/mango](https://github.com/jfaster/mango) - Distributed ORM Framework for Java
+* [decebals/pippo](https://github.com/decebals/pippo) - Micro Java Web Framework
 * [spring-projects/spring-data-book](https://github.com/spring-projects/spring-data-book) - Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers
 * [google/FreeBuilder](https://github.com/google/FreeBuilder) - Automatic generation of the Builder pattern for Java 1.6+
 * [amaembo/streamex](https://github.com/amaembo/streamex) - Enhancing Java 8 Streams
+* [anupcowkur/Reservoir](https://github.com/anupcowkur/Reservoir) - Android library to easily serialize and cache your objects to disk using key/value pairs.
+* [volders/Badger](https://github.com/volders/Badger) - A badge for any drawable
+* [aol/cyclops-react](https://github.com/aol/cyclops-react) - An advanced, but easy to use, platform for writing functional applications in Java 8
 * [lenskit/lenskit](https://github.com/lenskit/lenskit) - LensKit recommender toolkit.
-* [pzxwhc/MineKnowContainer](https://github.com/pzxwhc/MineKnowContainer) - 个人知识小仓库
-* [gitskarios/Gitskarios](https://github.com/gitskarios/Gitskarios) - GitHub Android application
-* [ufo22940268/android-justifiedtextview](https://github.com/ufo22940268/android-justifiedtextview) - android justified textview
-* [FluentLenium/FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser.
+* [xtuhcy/gecco](https://github.com/xtuhcy/gecco) - Easy to use lightweight web crawler（易用的轻量化网络爬虫）
 * [blynkkk/blynk-server](https://github.com/blynkkk/blynk-server) - Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet.
-* [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7
-* [mcxiaoke/minicat](https://github.com/mcxiaoke/minicat) - 蘑菇饭App（已停止更新）
+* [ufo22940268/android-justifiedtextview](https://github.com/ufo22940268/android-justifiedtextview) - android justified textview
+* [andsel/moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
+* [openhab/openhab2-addons](https://github.com/openhab/openhab2-addons) - Add-ons for openHAB 2.x
+* [Krupen/AutoplayVideos](https://github.com/Krupen/AutoplayVideos) - Android library to auto-play/pause videos from url in recyclerview.
 * [4thline/cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
 * [fabric8io/docker-maven-plugin](https://github.com/fabric8io/docker-maven-plugin) - Maven plugin for running and creating Docker images
+* [gitskarios/Gitskarios](https://github.com/gitskarios/Gitskarios) - GitHub Android application
+* [FluentLenium/FluentLenium](https://github.com/FluentLenium/FluentLenium) - FluentLenium helps you writing readable, reusable, reliable and resilient UI functional tests for the browser.
+* [jaredsburrows/android-gradle-java-app-template](https://github.com/jaredsburrows/android-gradle-java-app-template) - Gradle + Android Studio + Robolectric + Espresso + Mockito + EasyMock/PowerMock + JaCoCo
+* [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
+* [JustinSDK/JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial) - Java SE 6 技術手冊
+* [mcxiaoke/minicat](https://github.com/mcxiaoke/minicat) - 蘑菇饭App（已停止更新）
+* [google/google-api-java-client](https://github.com/google/google-api-java-client) - Google APIs Client Library for Java
 * [spring-projects/spring-roo](https://github.com/spring-projects/spring-roo) - Spring Roo is a next-generation rapid application development tool for Java developers. It focuses on higher productivity, stock-standard Java APIs, high usability, avoiding engineering trade-offs and facilitating easy Roo removal.
+* [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
+* [afollestad/ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
+* [michelelacorte/SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - A simple implementation of swipe card like StreetView
+* [methusalah/OpenRTS](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7
 * [advantageous/qbit](https://github.com/advantageous/qbit) - The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices.
 * [neuland/jade4j](https://github.com/neuland/jade4j) - a jade implementation written in Java
-* [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
-* [google/google-api-java-client](https://github.com/google/google-api-java-client) - Google APIs Client Library for Java
-* [JustinSDK/JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial) - Java SE 6 技術手冊
-* [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - PhpStorm plugin to detect ContainerInterface::get result type ... and that does many other things now :)
-* [openhab/openhab2-addons](https://github.com/openhab/openhab2-addons) - Add-ons for openHAB 2.x
-* [michelelacorte/SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - A simple implementation of swipe card like StreetView
-* [andsel/moquette](https://github.com/andsel/moquette) - Java MQTT lightweight broker
-* [la-team/light-admin](https://github.com/la-team/light-admin) - [PoC] Pluggable CRUD UI library for Java web applications
 * [spotify/docker-client](https://github.com/spotify/docker-client) - A simple docker client for the JVM
-* [xtuhcy/gecco](https://github.com/xtuhcy/gecco) - Easy to use lightweight web crawler（易用的轻量化网络爬虫）
-* [spotify/heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
-* [HeinrichReimer/material-drawer](https://github.com/HeinrichReimer/material-drawer) - Custom drawer implementation for Material design apps.
-* [restlet/restlet-framework-java](https://github.com/restlet/restlet-framework-java) - Leading REST API framework for Java
-* [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
+* [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - PhpStorm plugin to detect ContainerInterface::get result type ... and that does many other things now :)
 * [lwhite1/tablesaw](https://github.com/lwhite1/tablesaw) - The simplest way to slice data in Java
-* [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Write once run anywhere native mobile apps using a subset of Java 8 supports iPhone (iOS), Android, Windows (UWP) and others
-* [airlift/airline](https://github.com/airlift/airline) - Java annotation-based framework for parsing Git like command line structures
-* [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing bridge between Java and native C++ libraries
-* [mttkay/signpost](https://github.com/mttkay/signpost) - A light-weight client-side OAuth library for Java
-* [tizionario/AndroidDrawableFactory](https://github.com/tizionario/AndroidDrawableFactory) - A Java Application to create appropriate Drawable resources for your Android application
-* [vickychijwani/quill](https://github.com/vickychijwani/quill) - :memo: The beautiful Android app for your Ghost blog.
-* [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java
-* [pires/android-obd-reader](https://github.com/pires/android-obd-reader) - Android OBD-II Reader application that uses pure OBD-II PID's Java API.
-* [Andy671/Dachshund-Tab-Layout](https://github.com/Andy671/Dachshund-Tab-Layout) - Extended Android Tab Layout with animated indicators that have continuous feedback.
 * [shopizer-ecommerce/shopizer](https://github.com/shopizer-ecommerce/shopizer) - Shopizer java e-commerce software
+* [la-team/light-admin](https://github.com/la-team/light-admin) - [PoC] Pluggable CRUD UI library for Java web applications
+* [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
+* [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing bridge between Java and native C++ libraries
+* [spotify/heroic](https://github.com/spotify/heroic) - The Heroic Time Series Database
+* [Andy671/Dachshund-Tab-Layout](https://github.com/Andy671/Dachshund-Tab-Layout) - Extended Android Tab Layout with animated indicators that have continuous feedback.
+* [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Write once run anywhere native mobile apps using a subset of Java 8 supports iPhone (iOS), Android, Windows (UWP) and others
+* [heinrichreimer/material-drawer](https://github.com/heinrichreimer/material-drawer) - Custom drawer implementation for Material design apps.
+* [airlift/airline](https://github.com/airlift/airline) - Java annotation-based framework for parsing Git like command line structures
+* [restlet/restlet-framework-java](https://github.com/restlet/restlet-framework-java) - Leading REST API framework for Java
+* [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java
+* [vickychijwani/quill](https://github.com/vickychijwani/quill) - :memo: The beautiful Android app for your Ghost blog.
+* [pires/android-obd-reader](https://github.com/pires/android-obd-reader) - Android OBD-II Reader application that uses pure OBD-II PID's Java API.
 * [killme2008/xmemcached](https://github.com/killme2008/xmemcached) - High performance, easy to use multithreaded memcached client in java.
-* [jclouds/legacy-jclouds](https://github.com/jclouds/legacy-jclouds) - jclouds is an open source library that helps you get started in the cloud and reuse your java development skills. Our api allows you to freedom to use portable abstractions or cloud-specific features. We support many clouds including Amazon, VMWare, Azure, and Rackspace.
-* [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
-* [MachinePublishers/jBrowserDriver](https://github.com/MachinePublishers/jBrowserDriver) - A programmable, embeddable web browser driver compatible with the Selenium WebDriver spec -- headless, WebKit-based, pure Java
 * [Sixt/ja-micro](https://github.com/Sixt/ja-micro) - Lightweight framework for building java microservices
-* [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) - TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO
-* [afollestad/ason](https://github.com/afollestad/ason) - JSON in Java made easy! Catch less exceptions, serialize/deserialize with ease, plus some other useful tricks and conveniences!
-* [zeromq/jzmq](https://github.com/zeromq/jzmq) - Java binding for ZeroMQ
 * [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA-compliant UPnP Media Server.
-* [square/pollexor](https://github.com/square/pollexor) - Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.
-* [eBay/parallec](https://github.com/eBay/parallec) - Fast Parallel Async HTTP/SSH/TCP/UDP/Ping Client Java Library. Aggregate 100,000 APIs & send anywhere in 20 lines of code. Ping/HTTP Calls 8000 servers in 12 seconds. (Akka) www.parallec.io
-* [jaredsburrows/android-gradle-java-app-template](https://github.com/jaredsburrows/android-gradle-java-app-template) - Gradle + Android Studio + Robolectric + Espresso + Mockito + EasyMock/PowerMock + JaCoCo
-* [sd4324530/fastweixin](https://github.com/sd4324530/fastweixin) - 极其方便的实现微信公众平台服务端开发，2行代码完成服务器绑定，3行代码实现用户消息监听
-* [guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java) - Android Java wrapper around ffmpeg command line binary
-* [spring-projects/spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-* [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
+* [mttkay/signpost](https://github.com/mttkay/signpost) - A light-weight client-side OAuth library for Java
 * [huaban/jieba-analysis](https://github.com/huaban/jieba-analysis) - 结巴分词(java版)
-* [davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and rx-java Observables
-* [hekailiang/squirrel](https://github.com/hekailiang/squirrel) - squirrel-foundation is a State Machine library, which provided a lightweight, easy use, type safe and programmable state machine implementation for Java.
-* [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
-* [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android) - Bugsnag crash reporting for Android apps
+* [tizionario/AndroidDrawableFactory](https://github.com/tizionario/AndroidDrawableFactory) - A Java Application to create appropriate Drawable resources for your Android application
+* [MachinePublishers/jBrowserDriver](https://github.com/MachinePublishers/jBrowserDriver) - A programmable, embeddable web browser driver compatible with the Selenium WebDriver spec -- headless, WebKit-based, pure Java
+* [Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) - EtsyBlur is an Android library that allows developers to easily add a glass-like blur effect implemented in the  Etsy app.
+* [eBay/parallec](https://github.com/eBay/parallec) - Fast Parallel Async HTTP/SSH/TCP/UDP/Ping Client Java Library. Aggregate 100,000 APIs & send anywhere in 20 lines of code. Ping/HTTP Calls 8000 servers in 12 seconds. (Akka) www.parallec.io
+* [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
+* [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) - TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO
+* [square/pollexor](https://github.com/square/pollexor) - Java client for the Thumbor image service which allows you to build URIs in an expressive fashion using a fluent API.
+* [jclouds/legacy-jclouds](https://github.com/jclouds/legacy-jclouds) - jclouds is an open source library that helps you get started in the cloud and reuse your java development skills. Our api allows you to freedom to use portable abstractions or cloud-specific features. We support many clouds including Amazon, VMWare, Azure, and Rackspace.
 * [TakahikoKawasaki/nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client) - High-quality WebSocket client implementation in Java.
-* [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
-* [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Java Library for Recommender Systems, see
-* [davidmoten/rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api
-* [boonproject/boon](https://github.com/boonproject/boon) - Simple opinionated Java for the novice to expert level Java Programmer.  Low Ceremony. High Productivity.
-* [decebals/pf4j](https://github.com/decebals/pf4j) - Plugin Framework for Java (PF4J)
-* [Wolfsblvt/BlossomsPokemonGoManager](https://github.com/Wolfsblvt/BlossomsPokemonGoManager) - BlossomsPokemonGoManager is a tool for easy managing of your Pokémon Go game. Visit us at our Discord server to talk:
-* [EsotericSoftware/reflectasm](https://github.com/EsotericSoftware/reflectasm) - High performance Java reflection
-* [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
-* [wwadge/bonecp](https://github.com/wwadge/bonecp) - BoneCP is a Java JDBC connection pool implementation that is tuned for high performance by minimizing lock contention to give greater throughput for your applications. It beats older connection pools such as C3P0 and DBCP but SHOULD NOW BE CONSIDERED DEPRECATED in favour of HikariCP.
-* [google/re2j](https://github.com/google/re2j) - linear time regular expression matching in Java
-* [codeborne/selenide](https://github.com/codeborne/selenide) - Concise UI Tests with Java!
-* [vmihalachi/turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
-* [ethereum/ethereumj](https://github.com/ethereum/ethereumj) - Java implementation of the Ethereum yellowpaper
-* [codechimp-org/AppRater](https://github.com/codechimp-org/AppRater) - AppRater Library for Android
-* [mgarin/weblaf](https://github.com/mgarin/weblaf) - WebLaF - Java Look and Feel library for cross-platform Swing applications
+* [spring-projects/spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+* [zeromq/jzmq](https://github.com/zeromq/jzmq) - Java binding for ZeroMQ
+* [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs
+* [sd4324530/fastweixin](https://github.com/sd4324530/fastweixin) - 极其方便的实现微信公众平台服务端开发，2行代码完成服务器绑定，3行代码实现用户消息监听
 * [patric-r/jvmtop](https://github.com/patric-r/jvmtop) - Java monitoring for the command-line, profiler included
+* [vmihalachi/turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
+* [stealthcopter/AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) - Set of useful android network tools
+* [guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java) - Android Java wrapper around ffmpeg command line binary
+* [pentaho/mondrian](https://github.com/pentaho/mondrian) - Mondrian is an Online Analytical Processing (OLAP) server that enables business users to analyze large quantities of data in real-time.
+* [JabRef/jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
+* [liyifeng1994/ssm](https://github.com/liyifeng1994/ssm) - 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
+* [hekailiang/squirrel](https://github.com/hekailiang/squirrel) - squirrel-foundation is a State Machine library, which provided a lightweight, easy use, type safe and programmable state machine implementation for Java.
+* [ethereum/ethereumj](https://github.com/ethereum/ethereumj) - Java implementation of the Ethereum yellowpaper
+* [davidmoten/rxjava-jdbc](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and rx-java Observables
+* [hcoles/pitest](https://github.com/hcoles/pitest) - State of the art mutation testing system for the JVM
+* [google/re2j](https://github.com/google/re2j) - linear time regular expression matching in Java
+* [EsotericSoftware/reflectasm](https://github.com/EsotericSoftware/reflectasm) - High performance Java reflection
+* [davidmoten/rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api
+* [codeborne/selenide](https://github.com/codeborne/selenide) - Concise UI Tests with Java!
+* [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android) - Bugsnag crash reporting for Android apps
+* [itext/itextpdf](https://github.com/itext/itextpdf) - Core Java Library + PDF/A, xtra and XML Worker
+* [mgarin/weblaf](https://github.com/mgarin/weblaf) - WebLaF - Java Look and Feel library for cross-platform Swing applications
+* [decebals/pf4j](https://github.com/decebals/pf4j) - Plugin Framework for Java (PF4J)
+* [ps3mediaserver/ps3mediaserver](https://github.com/ps3mediaserver/ps3mediaserver) - PS3 Media Server is a cross-platform DLNA-compliant UPnP Media Server. Originally written to support the PlayStation 3, PS3 Media Server has been expanded to support a range of other media renderers, including smartphones, televisions, music players and more.
+* [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
+* [boonproject/boon](https://github.com/boonproject/boon) - Simple opinionated Java for the novice to expert level Java Programmer.  Low Ceremony. High Productivity.
 * [eclipse/smarthome](https://github.com/eclipse/smarthome) - Eclipse SmartHome™ project
+* [Wolfsblvt/BlossomsPokemonGoManager](https://github.com/Wolfsblvt/BlossomsPokemonGoManager) - BlossomsPokemonGoManager is a tool for easy managing of your Pokémon Go game. Visit us at our Discord server to talk:
+* [wwadge/bonecp](https://github.com/wwadge/bonecp) - BoneCP is a Java JDBC connection pool implementation that is tuned for high performance by minimizing lock contention to give greater throughput for your applications. It beats older connection pools such as C3P0 and DBCP but SHOULD NOW BE CONSIDERED DEPRECATED in favour of HikariCP.
+* [MyCollab/mycollab](https://github.com/MyCollab/mycollab) - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management, CRM and Document
+* [codechimp-org/AppRater](https://github.com/codechimp-org/AppRater) - AppRater Library for Android
+* [WhisperSystems/libsignal-protocol-java](https://github.com/WhisperSystems/libsignal-protocol-java) - Signal Protocol library for Java/Android
 * [PebbleTemplates/pebble](https://github.com/PebbleTemplates/pebble) - Java Template Engine
+* [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
+* [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java) - The missing emoji library for Java :heart:
+* [florent37/AwesomeBar](https://github.com/florent37/AwesomeBar) - Just beautiful
 * [matyb/java-koans](https://github.com/matyb/java-koans) - A framework and lessons to learn java syntax and idioms in a logical sequence.
-* [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
 * [javalite/activejdbc](https://github.com/javalite/activejdbc) - ActiveJDBC is a fast and lean Java ORM
+* [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - The official Wikipedia Android app. This is a mirror from https://gerrit.wikimedia.org.
+* [tony19/logback-android](https://github.com/tony19/logback-android) - The reliable, generic, fast and flexible logging framework for Java on Android.
+* [mitreid-connect/OpenID-Connect-Java-Spring-Server](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - An OpenID Connect reference implementation in Java on the Spring platform.
 * [paoding-code/paoding-rose](https://github.com/paoding-code/paoding-rose) - paoding-rose 提供最好用的Java Web应用整体性框架。
 * [restfb/restfb](https://github.com/restfb/restfb) - RestFB is a simple and flexible Facebook Graph API client written in Java.
-* [chiragjain/Emoticons-Keyboard](https://github.com/chiragjain/Emoticons-Keyboard) - A custom keyboard for emoticons for android chatting application
-* [mitreid-connect/OpenID-Connect-Java-Spring-Server](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server) - An OpenID Connect reference implementation in Java on the Spring platform.
-* [infinitest/infinitest](https://github.com/infinitest/infinitest) - A Continuous Test Runner for Java
-* [dustin/java-memcached-client](https://github.com/dustin/java-memcached-client) - A simple, asynchronous, single-threaded memcached client written in java.
-* [bguerout/jongo](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
-* [WhisperSystems/libsignal-protocol-java](https://github.com/WhisperSystems/libsignal-protocol-java) - Signal Protocol library for Java/Android
-* [allwefantasy/ServiceFramework](https://github.com/allwefantasy/ServiceFramework) - Java MVC framework, agile, fast, rich domain model, made especially for server side of mobile application (一个敏捷，快速，富领域模型的Java MVC 框架，专为 移动应用后端量身定做)
-* [tony19/logback-android](https://github.com/tony19/logback-android) - The reliable, generic, fast and flexible logging framework for Java on Android.
-* [spring-projects/spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. Uses familiar Spring concepts such as a template classes for core API usage and provides an annotation based programming model using AspectJ
-* [itext/itextpdf](https://github.com/itext/itextpdf) - Core Java Library + PDF/A, xtra and XML Worker
-* [wsieroci/audio-recognizer](https://github.com/wsieroci/audio-recognizer) - Shazam in Java
-* [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - The official Wikipedia Android app. This is a mirror from https://gerrit.wikimedia.org.
-* [prefuse/Prefuse](https://github.com/prefuse/Prefuse) - Prefuse is a set of software tools for creating rich interactive data visualizations in the Java programming language. Prefuse supports a rich set of features for data modeling, visualization, and interaction. It provides optimized data structures for tables, graphs, and trees, a host of layout and visual encoding techniques, and support for animation, dynamic queries, integrated search, and database connectivity.
-* [magefree/mage](https://github.com/magefree/mage) - Magic Another Game Engine
-* [hugeterry/PloyFun](https://github.com/hugeterry/PloyFun) - LowPoly image processing./导入图片生成Low Poly风格图片的app
-* [libgdx/ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
-* [libgdx/gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines
-* [InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android by rewrite Node.js in Java
-* [psiegman/epublib](https://github.com/psiegman/epublib) - a java library for reading and writing epub files
-* [MyCollab/mycollab](https://github.com/MyCollab/mycollab) - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management, CRM and Document
-* [OfficeDev/ews-java-api](https://github.com/OfficeDev/ews-java-api) - A java client library to access Exchange web services.  The API works against Office 365 Exchange Online as well as on premises Exchange.
-* [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
-* [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A Java based GRBL compatible cross-platform G-Code sender.
-* [devnied/EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) - A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC).
-* [LWJGL/lwjgl](https://github.com/LWJGL/lwjgl) - [LEGACY] LWJGL 2.X - The Lightweight Java Game Library.
-* [palatable/lambda](https://github.com/palatable/lambda) - Functional patterns for Java
-* [klinker24/Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView) - Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android.
-* [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
-* [RichardWarburton/java-8-lambdas-exercises](https://github.com/RichardWarburton/java-8-lambdas-exercises) - Exercises and Answers for Java 8 Lambdas book
-* [Netflix/hollow](https://github.com/Netflix/hollow) - Hollow is a java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets which are disseminated from a single producer to many consumers for read-only access.
-* [xinghongfei/Hello-RxJava](https://github.com/xinghongfei/Hello-RxJava) - 可能是学习Rxjava最好的教程之一，另一个是《给Android开发者RxJava的详解》，这个毫无疑问。
-* [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java) - The missing emoji library for Java :heart:
-* [spring-cloud/spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) - External configuration (server and client) for Spring Cloud
 * [npgall/cqengine](https://github.com/npgall/cqengine) - Ultra-fast SQL-like queries on Java collections
-* [ftomassetti/effectivejava](https://github.com/ftomassetti/effectivejava) - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others.
-* [florent37/AwesomeBar](https://github.com/florent37/AwesomeBar) - Just beautiful
+* [chiragjain/Emoticons-Keyboard](https://github.com/chiragjain/Emoticons-Keyboard) - A custom keyboard for emoticons for android chatting application
+* [infinitest/infinitest](https://github.com/infinitest/infinitest) - A Continuous Test Runner for Java
+* [allwefantasy/ServiceFramework](https://github.com/allwefantasy/ServiceFramework) - Java MVC framework, agile, fast, rich domain model, made especially for server side of mobile application (一个敏捷，快速，富领域模型的Java MVC 框架，专为 移动应用后端量身定做)
+* [RichardWarburton/java-8-lambdas-exercises](https://github.com/RichardWarburton/java-8-lambdas-exercises) - Exercises and Answers for Java 8 Lambdas book
+* [hugeterry/PloyFun](https://github.com/hugeterry/PloyFun) - LowPoly image processing./导入图片生成Low Poly风格图片的app
+* [bguerout/jongo](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+* [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - A Java based GRBL compatible cross-platform G-Code sender.
+* [spring-cloud/spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) - External configuration (server and client) for Spring Cloud
+* [dustin/java-memcached-client](https://github.com/dustin/java-memcached-client) - A simple, asynchronous, single-threaded memcached client written in java.
+* [spring-projects/spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) - Provides support to increase developer productivity in Java when using the neo4j graph database. Uses familiar Spring concepts such as a template classes for core API usage and provides an annotation based programming model using AspectJ
 * [mahmoudparsian/data-algorithms-book](https://github.com/mahmoudparsian/data-algorithms-book) -  MapReduce, Spark, Java, and Scala for Data Algorithms Book
+* [wsieroci/audio-recognizer](https://github.com/wsieroci/audio-recognizer) - Shazam in Java
+* [OfficeDev/ews-java-api](https://github.com/OfficeDev/ews-java-api) - A java client library to access Exchange web services.  The API works against Office 365 Exchange Online as well as on premises Exchange.
+* [magefree/mage](https://github.com/magefree/mage) - Magic Another Game Engine
+* [libgdx/ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+* [prefuse/Prefuse](https://github.com/prefuse/Prefuse) - Prefuse is a set of software tools for creating rich interactive data visualizations in the Java programming language. Prefuse supports a rich set of features for data modeling, visualization, and interaction. It provides optimized data structures for tables, graphs, and trees, a host of layout and visual encoding techniques, and support for animation, dynamic queries, integrated search, and database connectivity.
+* [Netflix/hollow](https://github.com/Netflix/hollow) - Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
+* [libgdx/gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines
+* [devnied/EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) - A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC).
+* [psiegman/epublib](https://github.com/psiegman/epublib) - a java library for reading and writing epub files
+* [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
+* [InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android by rewrite Node.js in Java
+* [dewarder/HoldingButton](https://github.com/dewarder/HoldingButton) - Button which is visible while user holds it. Main use case is controlling audio recording state (like in Telegram, Viber, VK).
+* [xinghongfei/Hello-RxJava](https://github.com/xinghongfei/Hello-RxJava) - 可能是学习Rxjava最好的教程之一，另一个是《给Android开发者RxJava的详解》，这个毫无疑问。
 * [QuadFlask/colorpicker](https://github.com/QuadFlask/colorpicker) - color picker for android
-* [my2iu/Jinq](https://github.com/my2iu/Jinq) - LINQ-style queries for Java 8
-* [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
+* [palatable/lambda](https://github.com/palatable/lambda) - Functional patterns for Java
 * [mapsforge/mapsforge](https://github.com/mapsforge/mapsforge) - Vector map library written in Java - running on Android and Desktop.
-* [tozny/java-aes-crypto](https://github.com/tozny/java-aes-crypto) - A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.
+* [jooby-project/jooby](https://github.com/jooby-project/jooby) - Scalable, fast and modular micro web framework for Java
+* [klinker24/Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView) - Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android.
+* [LWJGL/lwjgl](https://github.com/LWJGL/lwjgl) - [LEGACY] LWJGL 2.X - The Lightweight Java Game Library.
+* [centic9/jgit-cookbook](https://github.com/centic9/jgit-cookbook) - Provides examples and code snippets for the JGit Java Git implementation
+* [my2iu/Jinq](https://github.com/my2iu/Jinq) - LINQ-style queries for Java 8
+* [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Ad/Host Blocker for Android
+* [ftomassetti/effectivejava](https://github.com/ftomassetti/effectivejava) - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others.
 * [Countly/countly-sdk-android](https://github.com/Countly/countly-sdk-android) - Countly Mobile Analytics - Android SDK
-* [Netflix/denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash
-* [xerial/snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
-* [mimno/Mallet](https://github.com/mimno/Mallet) - MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 * [caprica/vlcj](https://github.com/caprica/vlcj) - Java framework for the vlc media player
-* [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 * [bcgit/bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
+* [mimno/Mallet](https://github.com/mimno/Mallet) - MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
+* [tozny/java-aes-crypto](https://github.com/tozny/java-aes-crypto) - A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.
+* [xerial/snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
 * [mitre/HTTP-Proxy-Servlet](https://github.com/mitre/HTTP-Proxy-Servlet) - Smiley's HTTP Proxy implemented as a Java servlet
+* [Netflix/denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash
 * [larsga/Duke](https://github.com/larsga/Duke) - Duke is a fast and flexible deduplication engine written in Java
+* [samskivert/jmustache](https://github.com/samskivert/jmustache) - A Java implementation of the Mustache templating language.
+* [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
+* [tomoya92/pybbs](https://github.com/tomoya92/pybbs) - Better use of the Java community (Forum)
 * [inaka/galgo](https://github.com/inaka/galgo) - When you want your logs to be displayed on screen
+* [fookwood/Launcher3](https://github.com/fookwood/Launcher3) - 更改官方的Launcher3使得可以在Android Studio编译
 * [anshooarora/extentreports-java](https://github.com/anshooarora/extentreports-java) - Community version of Extent API for Java.
 * [foxinmy/weixin4j](https://github.com/foxinmy/weixin4j) - (微信开发工具包)weixin sdk for java
-* [caelum/vraptor](https://github.com/caelum/vraptor) - Simple Java Web MVC Framework
-* [konsoletyper/teavm](https://github.com/konsoletyper/teavm) - Compiler of Java bytecode to JavaScript
-* [samskivert/jmustache](https://github.com/samskivert/jmustache) - A Java implementation of the Mustache templating language.
-* [jooby-project/jooby](https://github.com/jooby-project/jooby) - Scalable, fast and modular micro web framework for Java
-* [jnr/jnr-ffi](https://github.com/jnr/jnr-ffi) - Java Abstracted Foreign Function Layer
-* [restx/restx](https://github.com/restx/restx) - RESTX, the lightweight Java REST framework
 * [ralfstx/minimal-json](https://github.com/ralfstx/minimal-json) - A fast and small JSON parser and writer for Java
-* [square/gifencoder](https://github.com/square/gifencoder) - A pure Java library implementing the GIF89a specification. Suitable for use on Android.
-* [ddf/Minim](https://github.com/ddf/Minim) - A Java audio library, designed to be used with Processing.
-* [tomoya92/pybbs](https://github.com/tomoya92/pybbs) - Better use of the Java community (Forum)
-* [bazaarvoice/jolt](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java.
-* [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
-* [gresrun/jesque](https://github.com/gresrun/jesque) - An implementation of Resque in Java.
-* [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
-* [andytill/erlyberly](https://github.com/andytill/erlyberly) - erlang tracing for the masses
-* [AndroidDeveloperLB/AndroidJniBitmapOperations](https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations) - Allows to perform various simple operations on bitmaps via JNI , while also providing some protection against OOM using the native Java environment on Android
+* [caelum/vraptor](https://github.com/caelum/vraptor) - Simple Java Web MVC Framework
 * [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - :octopus: A simple 0-dependency java lib for transmitting ThreadLocal value between threads even using thread pool.
-* [fookwood/Launcher3](https://github.com/fookwood/Launcher3) - 更改官方的Launcher3使得可以在Android Studio编译
-* [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Ad/Host Blocker for Android
-* [psi-probe/psi-probe](https://github.com/psi-probe/psi-probe) - Advanced manager and monitor for Apache Tomcat, forked from Lambda Probe
-* [banq/jdonframework](https://github.com/banq/jdonframework) -  DDD CQRS EventSourcing  framework for Java
-* [googlesamples/tango-examples-java](https://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API
-* [pholser/junit-quickcheck](https://github.com/pholser/junit-quickcheck) - Property-based testing, JUnit-style
+* [graphhopper/jsprit](https://github.com/graphhopper/jsprit) - jsprit is a java based, open source toolkit for solving rich vehicle routing problems
+* [square/gifencoder](https://github.com/square/gifencoder) - A pure Java library implementing the GIF89a specification. Suitable for use on Android.
+* [jnr/jnr-ffi](https://github.com/jnr/jnr-ffi) - Java Abstracted Foreign Function Layer
 * [DiUS/java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java
+* [bazaarvoice/jolt](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java.
+* [ddf/Minim](https://github.com/ddf/Minim) - A Java audio library, designed to be used with Processing.
+* [pholser/junit-quickcheck](https://github.com/pholser/junit-quickcheck) - Property-based testing, JUnit-style
+* [JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台。
+* [gresrun/jesque](https://github.com/gresrun/jesque) - An implementation of Resque in Java.
+* [afollestad/bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java  URLConnection classes for maximum compatibility and speed.
+* [restx/restx](https://github.com/restx/restx) - RESTX, the lightweight Java REST framework
+* [psi-probe/psi-probe](https://github.com/psi-probe/psi-probe) - Advanced manager and monitor for Apache Tomcat, forked from Lambda Probe
+* [kungfoo/geohash-java](https://github.com/kungfoo/geohash-java) - Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible.
+* [googlesamples/tango-examples-java](https://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API
+* [banq/jdonframework](https://github.com/banq/jdonframework) -  DDD CQRS EventSourcing  framework for Java
+* [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.
+* [cincheo/jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
+* [AndroidDeveloperLB/AndroidJniBitmapOperations](https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations) - Allows to perform various simple operations on bitmaps via JNI , while also providing some protection against OOM using the native Java environment on Android
+* [GoodieBag/Pinview](https://github.com/GoodieBag/Pinview) - A pinview library for android. :sparkles:
+* [andytill/erlyberly](https://github.com/andytill/erlyberly) - erlang tracing for the masses
+* [brianway/java-learning](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+* [Suleiman19/Android-Material-Design-for-pre-Lollipop](https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop) - Various UI implementations, animations & effects  based on Material Design compatible with pre Lollipop devices as well. (Work in progess)
 * [fusesource/jansi](https://github.com/fusesource/jansi) - Jansi is a small java library that allows you to use ANSI escape sequences to format your console output which works even on windows.
-* [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions) - Runnable code for solving Project Euler problems.
+* [jbox2d/jbox2d](https://github.com/jbox2d/jbox2d) - a 2d Java physics engine, native java port of the C++ physics engines Box2D and LiquidFun
 * [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
 * [linkedin/URL-Detector](https://github.com/linkedin/URL-Detector) - A Java library to detect and normalize URLs in text
-* [cincheo/jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
-* [jbox2d/jbox2d](https://github.com/jbox2d/jbox2d) - a 2d Java physics engine, native java port of the C++ physics engines Box2D and LiquidFun
-* [ObjectLayout/ObjectLayout](https://github.com/ObjectLayout/ObjectLayout) - Java classes designed with optimizable object layout in mind
-* [hsz/idea-gitignore](https://github.com/hsz/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
-* [Suleiman19/Android-Material-Design-for-pre-Lollipop](https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop) - Various UI implementations, animations & effects  based on Material Design compatible with pre Lollipop devices as well. (Work in progess)
 * [shyiko/mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
-* [lukeFalsina/Grab-n-Run](https://github.com/lukeFalsina/Grab-n-Run) - Grab’n Run, a simple and effective Java Library for Android projects to secure dynamic code loading.
-* [jbellis/jamm](https://github.com/jbellis/jamm) - Java Agent for Memory Measurements
-* [carrotsearch/hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections for Java
-* [FabianTerhorst/FastLayout](https://github.com/FabianTerhorst/FastLayout) - Generates a Java Object for your xml layout to reduce inflate time to zero
-* [kwhat/jnativehook](https://github.com/kwhat/jnativehook) - Global keyboard and mouse listeners for Java.
-* [SpoutDev/Spout](https://github.com/SpoutDev/Spout) - Open source, multithreaded, voxel game engine and platform, written in Java.
-* [repeats/Repeat](https://github.com/repeats/Repeat) - Repeat yourself with some intelligence. This, if used correctly, can improve your productivity by 2x - 5x.
-* [GoodieBag/Pinview](https://github.com/GoodieBag/Pinview) - A pinview library for android. :sparkles:
-* [locationtech/spatial4j](https://github.com/locationtech/spatial4j) - A Geospatial Library for Java
+* [hsz/idea-gitignore](https://github.com/hsz/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
+* [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - TestContainers is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 * [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - The FindBugs plugin for security audits of Java web applications and Android applications. (Also work with Scala projects)
 * [lukehutch/fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [EasyRules/easyrules](https://github.com/EasyRules/easyrules) - The simple, stupid Java rules engine
-* [handsomezhou/PinyinSearchLibrary](https://github.com/handsomezhou/PinyinSearchLibrary) - Provide data analysis methods, data matching method and so on for T9 pinyin search and Qwerty pinyin search in Java. The project demonstrates contacts search and app search on android.
+* [ObjectLayout/ObjectLayout](https://github.com/ObjectLayout/ObjectLayout) - Java classes designed with optimizable object layout in mind
+* [vipshop/Saturn](https://github.com/vipshop/Saturn) - The VIP's distributed job schedule platform. It supports java and shell jobs with sharding, tolerance, high availability...
 * [stevensouza/automon](https://github.com/stevensouza/automon) - Automon combines the power of AOP (AspectJ) with monitoring or logging tools you already use to declaratively monitor your Java code, the JDK, and 3rd party libraries.
-* [nntuyen/text-decorator](https://github.com/nntuyen/text-decorator) - Decorate your TextView easily
+* [lukeFalsina/Grab-n-Run](https://github.com/lukeFalsina/Grab-n-Run) - Grab’n Run, a simple and effective Java Library for Android projects to secure dynamic code loading.
+* [kwhat/jnativehook](https://github.com/kwhat/jnativehook) - Global keyboard and mouse listeners for Java.
+* [atlassian/commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format
+* [jbellis/jamm](https://github.com/jbellis/jamm) - Java Agent for Memory Measurements
+* [locationtech/spatial4j](https://github.com/locationtech/spatial4j) - A Geospatial Library for Java
 * [vladmihalcea/flexy-pool](https://github.com/vladmihalcea/flexy-pool) - FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand.
 * [i2p/i2p.i2p](https://github.com/i2p/i2p.i2p) - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. This is a mirror of the official Monotone repository.
-* [liyifeng1994/ssm](https://github.com/liyifeng1994/ssm) - 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
-* [mikiobraun/jblas](https://github.com/mikiobraun/jblas) - Linear Algebra for Java
+* [handsomezhou/PinyinSearchLibrary](https://github.com/handsomezhou/PinyinSearchLibrary) - Provide data analysis methods, data matching method and so on for T9 pinyin search and Qwerty pinyin search in Java. The project demonstrates contacts search and app search on android.
+* [FabianTerhorst/FastLayout](https://github.com/FabianTerhorst/FastLayout) - Generates a Java Object for your xml layout to reduce inflate time to zero
+* [carrotsearch/hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections for Java
+* [polyak01/IconSwitch](https://github.com/polyak01/IconSwitch) - 🍭 Custom Android Switch widget
 * [freecats/TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation) - Expandable TextView With Smooth Transition Animation
+* [CognitiveJ/cognitivej](https://github.com/CognitiveJ/cognitivej) - Cognitive Image Analysis for Java
 * [zheludkovm/LinuxJavaFixes](https://github.com/zheludkovm/LinuxJavaFixes) - LinuxJavaFixes
 * [timmolter/XChart](https://github.com/timmolter/XChart) - XChart is a light weight Java library for plotting data.
-* [afollestad/bridge](https://github.com/afollestad/bridge) - A simple but powerful HTTP networking library for Java. It features a Fluent chainable API, powered by Java  URLConnection classes for maximum compatibility and speed.
-* [kohsuke/github-api](https://github.com/kohsuke/github-api) - Java API for GitHub
 * [JackJiang2011/beautyeye](https://github.com/JackJiang2011/beautyeye) - BeautyEye is a Java Swing cross-platform look and feel.
-* [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
+* [repeats/Repeat](https://github.com/repeats/Repeat) - Repeat yourself with some intelligence. This, if used correctly, can improve your productivity by 2x - 5x.
+* [nntuyen/text-decorator](https://github.com/nntuyen/text-decorator) - Decorate your TextView easily
+* [SpoutDev/Spout](https://github.com/SpoutDev/Spout) - Open source, multithreaded, voxel game engine and platform, written in Java.
+* [sscarduzio/elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) - Free Elasticsearch and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing
 * [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues.
-* [eventsourcing/es4j](https://github.com/eventsourcing/es4j) - Event capture and querying framework for Java
-* [vipshop/Saturn](https://github.com/vipshop/Saturn) - The VIP's distributed job schedule platform. It supports java and shell jobs with sharding, tolerance, high availability...
-* [JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台。
-* [pubnub/java](https://github.com/pubnub/java) - PubNub Java-based APIs for core Java, Android
-* [CognitiveJ/cognitivej](https://github.com/CognitiveJ/cognitivej) - Cognitive Image Analysis for Java
-* [JakeWharton/flip-tables](https://github.com/JakeWharton/flip-tables) - Because pretty-printing text tables in Java should be easy.
-* [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library
-* [atlassian/commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format
-* [android10/arrow](https://github.com/android10/arrow) - Arrow is Lightweight library toolbox for Java and Android Development.
-* [udacity/ud867](https://github.com/udacity/ud867) - Course code repository for Gradle for Android and Java
-* [dboissier/mongo4idea](https://github.com/dboissier/mongo4idea) - Mongo integration in Intellij
-* [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - TestContainers is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+* [kohsuke/github-api](https://github.com/kohsuke/github-api) - Java API for GitHub
+* [ihsanbal/LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 * [niranjan94/show-java](https://github.com/niranjan94/show-java) - An apk decompiler for android.
-* [sscarduzio/elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) - Safely expose Elasticsearch REST API directly to the public
-* [mg6maciej/android-maps-extensions](https://github.com/mg6maciej/android-maps-extensions) - Android Maps Extensions is a library extending capabilities of Google Maps Android API v2.
-* [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
+* [mikiobraun/jblas](https://github.com/mikiobraun/jblas) - Linear Algebra for Java
+* [bobbylight/RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - A syntax highlighting, code folding text editor for Java Swing applications.
+* [dboissier/mongo4idea](https://github.com/dboissier/mongo4idea) - Mongo integration in Intellij
+* [hrldcpr/pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library
+* [eventsourcing/es4j](https://github.com/eventsourcing/es4j) - Event capture and querying framework for Java
+* [JakeWharton/flip-tables](https://github.com/JakeWharton/flip-tables) - Because pretty-printing text tables in Java should be easy.
+* [udacity/ud867](https://github.com/udacity/ud867) - Course code repository for Gradle for Android and Java
 * [jamesagnew/hapi-fhir](https://github.com/jamesagnew/hapi-fhir) - HAPI FHIR - Java API for HL7 FHIR Clients and Servers
-* [tillnagel/unfolding](https://github.com/tillnagel/unfolding) - A library to create interactive maps and geovisualizations in Processing and Java
-* [martylamb/nailgun](https://github.com/martylamb/nailgun) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
+* [pubnub/java](https://github.com/pubnub/java) - PubNub Java-based APIs for core Java, Android
+* [android10/arrow](https://github.com/android10/arrow) - Arrow is Lightweight library toolbox for Java and Android Development.
+* [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and process automation
+* [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
+* [mg6maciej/android-maps-extensions](https://github.com/mg6maciej/android-maps-extensions) - Android Maps Extensions is a library extending capabilities of Google Maps Android API v2.
 * [marhan/effective-java-examples](https://github.com/marhan/effective-java-examples) - Source code to the book "Effective Java Second Edition" created by Joshua Bloch
+* [akarnokd/RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types.
+* [martylamb/nailgun](https://github.com/martylamb/nailgun) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
+* [rabbitmq/rabbitmq-java-client](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ Java client
+* [florent37/RxRetroJsoup](https://github.com/florent37/RxRetroJsoup) - A simple API-like from html website (scrapper) for Android, RxJava2 ready !
+* [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli (formerly textsecure-cli) provides a commandline and dbus interface for WhisperSystems/libsignal-service-java
+* [tillnagel/unfolding](https://github.com/tillnagel/unfolding) - A library to create interactive maps and geovisualizations in Processing and Java
 * [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a library to analyze, rewrite, transform, transpile Java source code (incl Java 8). It parses source files to build a well-designed AST with powerful analysis and transformation API. Made at Inria with :heart:, :beers: and :sparkles:.
+* [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and records
+* [uniVocity/univocity-parsers](https://github.com/uniVocity/univocity-parsers) - uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers.
+* [rakam-io/rakam](https://github.com/rakam-io/rakam) - 📈 An analytics platform that makes easy to create custom analytics services
+* [firebase/geofire-java](https://github.com/firebase/geofire-java) - GeoFire for Java - Realtime location queries with Firebase
+* [RUB-NDS/TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) - TLS-Attacker is a Java-based framework for analyzing TLS libraries. It is developed by the Ruhr University Bochum (http://nds.rub.de/) and the Hackmanit GmbH (http://hackmanit.de/).
+* [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library written entirely in Java.
+* [j256/ormlite-core](https://github.com/j256/ormlite-core) - Core ORMLite functionality that provides a lite Java ORM in conjunction with ormlite-jdbc or ormlite-android
 * [wro4j/wro4j](https://github.com/wro4j/wro4j) - Free and Open Source Java project which brings together almost all the modern web tools: JsHint, CssLint, JsMin, Google Closure compressor, YUI Compressor, UglifyJs, Dojo Shrinksafe, Css Variables Support, JSON Compression, Less, Sass, CoffeeScript and much more. In the same time, the aim is to keep it as simple as possible and as extensible as possible in order to be easily adapted to application specific needs.
 * [caplogic/Mappedbus](https://github.com/caplogic/Mappedbus) - A library for low latency IPC between multiple Java processes/JVMs. http://mappedbus.io
-* [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and process automation
-* [RUB-NDS/TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) - TLS-Attacker is a Java-based framework for analyzing TLS libraries. It is developed by the Ruhr University Bochum (http://nds.rub.de/) and the Hackmanit GmbH (http://hackmanit.de/).
-* [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli (formerly textsecure-cli) provides a commandline and dbus interface for WhisperSystems/libsignal-service-java
-* [twitter/cloudhopper-smpp](https://github.com/twitter/cloudhopper-smpp) - Efficient, scalable, and flexible Java implementation of the Short Messaging Peer to Peer Protocol (SMPP)
-* [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library written entirely in Java.
-* [inaka/TinyTask](https://github.com/inaka/TinyTask) - A Tiny Task Library
-* [giltene/jHiccup](https://github.com/giltene/jHiccup) - jHiccup is a non-intrusive instrumentation tool that logs and records
-* [j256/ormlite-core](https://github.com/j256/ormlite-core) - Core ORMLite functionality that provides Java ORM in conjunction with ormlite-jdbc or ormlite-android.
-* [0opslab/opslabJutil](https://github.com/0opslab/opslabJutil) - Java utils
 * [apache/isis](https://github.com/apache/isis) - Apache Isis™ software is a framework for rapidly developing domain-driven apps in Java. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp or as a RESTful API. For prototyping or production.
-* [uniVocity/univocity-parsers](https://github.com/uniVocity/univocity-parsers) - uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers.
+* [amzn/alexa-skills-kit-java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo.
+* [0opslab/opslabJutil](https://github.com/0opslab/opslabJutil) - Java utils
 * [scream3r/java-simple-serial-connector](https://github.com/scream3r/java-simple-serial-connector) - Official jSSC (Java Simple Serial Connector) repository
-* [firebase/geofire-java](https://github.com/firebase/geofire-java) - GeoFire for Java - Realtime location queries with Firebase
-* [rabbitmq/rabbitmq-java-client](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ Java client
-* [arun-gupta/microservices](https://github.com/arun-gupta/microservices) - Java EE and Microservices
-* [GautamGupta/Simple-Android-OCR](https://github.com/GautamGupta/Simple-Android-OCR) - A simple Android OCR application that makes use of the Camera app
-* [aerogear/aerogear-unifiedpush-server](https://github.com/aerogear/aerogear-unifiedpush-server) - :rocket: AeroGear UnifiedPush Server
-* [joestelmach/natty](https://github.com/joestelmach/natty) - Java natural language date parser
-* [caelum/vraptor4](https://github.com/caelum/vraptor4) - A Java web MVC action-based framework
+* [chenssy89/jutils](https://github.com/chenssy89/jutils) - jutils，通用的Java工具类，主要包括基础工具类（时间、正则表达式、字符串、随机数等等），excel解析生成、word解析生成、文件操作、图片操作、敏感字、加解密等等。
+* [twitter/cloudhopper-smpp](https://github.com/twitter/cloudhopper-smpp) - Efficient, scalable, and flexible Java implementation of the Short Messaging Peer to Peer Protocol (SMPP)
 * [javafx-maven-plugin/javafx-maven-plugin](https://github.com/javafx-maven-plugin/javafx-maven-plugin) - Maven plugin for JavaFX
+* [inaka/TinyTask](https://github.com/inaka/TinyTask) - A Tiny Task Library
+* [arun-gupta/microservices](https://github.com/arun-gupta/microservices) - Java EE and Microservices
+* [joestelmach/natty](https://github.com/joestelmach/natty) - Java natural language date parser
+* [RaiMan/SikuliX2](https://github.com/RaiMan/SikuliX2) - SikuliX version 2 - Java API
+* [atomix/copycat](https://github.com/atomix/copycat) - A novel implementation of the Raft consensus algorithm
+* [hibernate/hibernate-validator](https://github.com/hibernate/hibernate-validator) - Hibernate Validator - Bean Validation 2.0 (JSR 380) Reference Implementation
+* [GautamGupta/Simple-Android-OCR](https://github.com/GautamGupta/Simple-Android-OCR) - A simple Android OCR application that makes use of the Camera app
+* [Martin404/PayMap](https://github.com/Martin404/PayMap) - Java后端实现三方支付集成支付宝（国内、国际、移动端、PC端）、微信、银联（acp、upop）、光大（网关、网页）、邮政支付
+* [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Java Thread Affinity library
+* [Angads25/android-filepicker](https://github.com/Angads25/android-filepicker) - Selecting directories/files made a lot easier.
+* [aerogear/aerogear-unifiedpush-server](https://github.com/aerogear/aerogear-unifiedpush-server) - :rocket: AeroGear UnifiedPush Server
 * [tg123/leetcode](https://github.com/tg123/leetcode) - leetcode Solutions.java  250 / 269 (Algorithms)
 * [peter-lawrey/Java-Thread-Affinity](https://github.com/peter-lawrey/Java-Thread-Affinity) - Control thread affinity for Java
 * [Hive2Hive/Hive2Hive](https://github.com/Hive2Hive/Hive2Hive) - Java library for secure, distributed, P2P-based file synchronization and sharing.
-* [chenssy89/jutils](https://github.com/chenssy89/jutils) - jutils，通用的Java工具类，主要包括基础工具类（时间、正则表达式、字符串、随机数等等），excel解析生成、word解析生成、文件操作、图片操作、敏感字、加解密等等。
-* [Angads25/android-filepicker](https://github.com/Angads25/android-filepicker) - Selecting directories/files made a lot easier.
-* [atomix/copycat](https://github.com/atomix/copycat) - A novel implementation of the Raft consensus algorithm
-* [digitalfondue/lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
-* [rakam-io/rakam](https://github.com/rakam-io/rakam) - 📈 An analytics platform that makes easy to create custom analytics services
-* [RaiMan/SikuliX2](https://github.com/RaiMan/SikuliX2) - SikuliX version 2 - Java API
-* [hibernate/hibernate-validator](https://github.com/hibernate/hibernate-validator) - Hibernate Validator - Bean Validation 2.0 (JSR 380) Reference Implementation
-* [anismiles/websocket-android-phonegap](https://github.com/anismiles/websocket-android-phonegap) - This is a Java library that implements Websockt API (Draft-75/76) for Android platform. Library uses java.nio.* packages for efficient non-blocking evented behavior. It easily gets integrated with Phonegap framework.
-* [amzn/alexa-skills-kit-java](https://github.com/amzn/alexa-skills-kit-java) - SDK and example code for building voice-enabled skills for the Amazon Echo.
-* [volders/Badger](https://github.com/volders/Badger) - A badge for any drawable
+* [caelum/vraptor4](https://github.com/caelum/vraptor4) - A Java web MVC action-based framework
 * [stoicflame/enunciate](https://github.com/stoicflame/enunciate) - Build-time enhancement tool for Java-based Web services projects
-* [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
-* [stephanenicolas/toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java
 * [rometools/rome](https://github.com/rometools/rome) - ROME is Java framework for RSS and Atom feeds
-* [lkuza2/java-speech-api](https://github.com/lkuza2/java-speech-api) - The J.A.R.V.I.S. Speech API is designed to be simple and efficient, using the speech engines created by Google to provide functionality for parts of the API. Essentially, it is an API written in Java, including a recognizer, synthesizer, and a microphone capture utility. The project uses Google services for the synthesizer and recognizer. While this requires an Internet connection, it provides a complete, modern, and fully functional speech API in Java.
-* [clearthesky/apk-parser](https://github.com/clearthesky/apk-parser) - Apk parser lib for java
-* [Martin404/PayMap](https://github.com/Martin404/PayMap) - Java后端实现三方支付集成支付宝（国内、国际、移动端、PC端）、微信、银联（acp、upop）、光大（网关、网页）、邮政支付
-* [jmrapp1/TerraLegion](https://github.com/jmrapp1/TerraLegion) - A clone of the popular game, Terraria. Developed using Java and the LibGDX framework with an aim to run the game efficiently and smoothly on Android devices.
+* [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - RESTHeart, the REST API Server for MongoDB
 * [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android
-* [akarnokd/RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) - Library to convert between RxJava 1.x and 2.x reactive types.
-* [OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity) - Java Thread Affinity library
-* [dotCMS/core](https://github.com/dotCMS/core) - Source Code for dotCMS Java Enterprise Content Management System
-* [tcurdt/jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
-* [jOOQ/jOOX](https://github.com/jOOQ/jOOX) - jOOX - The Power of jQuery Applied to W3C DOM Like JDBC, DOM is a powerful, yet very verbose low-level API to manipulate XML. The HTML DOM an be manipulated with the popular jQuery product, in JavaScript. Why don't we have jQuery in Java? jOOX is jQuery's XML parts, applied to Java.
-* [jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava) - I was fed up with writing Java classes to mirror json models.  So I wrote this Java app to automate the process.
-* [glung/redux-java](https://github.com/glung/redux-java) - The java version of Redux : a predictable state container for apps.
-* [pires/obd-java-api](https://github.com/pires/obd-java-api) - OBD-II Java API
-* [bartdag/py4j](https://github.com/bartdag/py4j) - Py4J enables Python programs to dynamically access arbitrary Java objects
-* [alkacon/opencms-core](https://github.com/alkacon/opencms-core) - The Java open source content management system by Alkacon Software
-* [kaitoy/pcap4j](https://github.com/kaitoy/pcap4j) - A Java library for capturing, crafting, and sending packets.
-* [vbauer/jackdaw](https://github.com/vbauer/jackdaw) - Java Annotation Processor which allows to simplify development
-* [jonathanlermitage/tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 12 languages. :video_game:
-* [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform
-* [google/google-oauth-java-client](https://github.com/google/google-oauth-java-client) - Google OAuth Client Library for Java
-* [NLPchina/Word2VEC_java](https://github.com/NLPchina/Word2VEC_java) - word2vec java版本的一个实现
-* [MagnusS/Java-BloomFilter](https://github.com/MagnusS/Java-BloomFilter) - A stand-alone Bloom filter implementation written in Java
-* [jcabi/jcabi-aspects](https://github.com/jcabi/jcabi-aspects) - Collection of AOP/AspectJ Java Aspects
-* [simplenlg/simplenlg](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation. Originally developed at the University of Aberdeen's Department of Computing Science. This git repo is the official SimpleNLG version.
-* [Peergos/Peergos](https://github.com/Peergos/Peergos) - A decentralised, secure file storage, sharing and social network that's surveillance resistant and doesn't expose your friend network.
-* [nurkiewicz/async-retry](https://github.com/nurkiewicz/async-retry) - Asynchronous retrying for Java 7/8
-* [careermonk/DataStructureAndAlgorithmsMadeEasyInJava](https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava) - Data Structure And Algorithms Made Easy In Java
-* [jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j
+* [clearthesky/apk-parser](https://github.com/clearthesky/apk-parser) - Apk parser lib for java
+* [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
+* [digitalfondue/lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
+* [jmrapp1/TerraLegion](https://github.com/jmrapp1/TerraLegion) - A clone of the popular game, Terraria. Developed using Java and the LibGDX framework with an aim to run the game efficiently and smoothly on Android devices.
 * [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java) - paho.mqtt.java
-* [dain/snappy](https://github.com/dain/snappy) - Port of Snappy to Java
-* [JodaOrg/joda-money](https://github.com/JodaOrg/joda-money) - Java library to represent monetary amounts.
-* [florent37/RxRetroJsoup](https://github.com/florent37/RxRetroJsoup) - A simple API-like from html website (scrapper) for Android, RxJava2 ready !
-* [peter-lawrey/HugeCollections-OLD](https://github.com/peter-lawrey/HugeCollections-OLD) - Huge Collections for Java using efficient off heap storage
-* [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
-* [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
-* [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
-* [fangyidong/json-simple](https://github.com/fangyidong/json-simple) - A simple Java toolkit for JSON. You can use json-simple to encode or decode JSON text.
-* [wg/scrypt](https://github.com/wg/scrypt) - Java implementation of scrypt
-* [googleglass/mirror-quickstart-java](https://github.com/googleglass/mirror-quickstart-java) - Google Mirror API's Quickstart for Java
-* [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) - Azure Management Libraries for Java
-* [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Java Dota 2 replay parser.
-* [laforge49/JActor](https://github.com/laforge49/JActor) - Actors for Java
-* [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - Web crawler SDK based on Apache Storm
-* [yegor256/takes](https://github.com/yegor256/takes) - True Object-Oriented and Immutable Java Web Framework
+* [stephanenicolas/toothpick](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java
+* [looly/hutool](https://github.com/looly/hutool) - A set of Java tools that makes it easy to code
+* [anismiles/websocket-android-phonegap](https://github.com/anismiles/websocket-android-phonegap) - This is a Java library that implements Websockt API (Draft-75/76) for Android platform. Library uses java.nio.* packages for efficient non-blocking evented behavior. It easily gets integrated with Phonegap framework.
+* [pires/obd-java-api](https://github.com/pires/obd-java-api) - OBD-II Java API
+* [lkuza2/java-speech-api](https://github.com/lkuza2/java-speech-api) - The J.A.R.V.I.S. Speech API is designed to be simple and efficient, using the speech engines created by Google to provide functionality for parts of the API. Essentially, it is an API written in Java, including a recognizer, synthesizer, and a microphone capture utility. The project uses Google services for the synthesizer and recognizer. While this requires an Internet connection, it provides a complete, modern, and fully functional speech API in Java.
+* [kaitoy/pcap4j](https://github.com/kaitoy/pcap4j) - A Java library for capturing, crafting, and sending packets.
 * [watson-developer-cloud/java-sdk](https://github.com/watson-developer-cloud/java-sdk) - :bowtie: Java SDK to use the IBM Watson services. It supports Android.
-* [looly/hutool](https://github.com/looly/hutool) - A java tools make it easy to coding
-* [hprose/hprose-java](https://github.com/hprose/hprose-java) - Hprose for Java
-* [jankotek/JDBM3](https://github.com/jankotek/JDBM3) - Embedded Key Value Java Database
-* [structurizr/java](https://github.com/structurizr/java) - Structurizr for Java
-* [oxo42/stateless4j](https://github.com/oxo42/stateless4j) - Lightweight Java State Machine
+* [jOOQ/jOOX](https://github.com/jOOQ/jOOX) - jOOX - The Power of jQuery Applied to W3C DOM Like JDBC, DOM is a powerful, yet very verbose low-level API to manipulate XML. The HTML DOM an be manipulated with the popular jQuery product, in JavaScript. Why don't we have jQuery in Java? jOOX is jQuery's XML parts, applied to Java.
+* [tcurdt/jdeb](https://github.com/tcurdt/jdeb) - This library provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
+* [glung/redux-java](https://github.com/glung/redux-java) - The java version of Redux : a predictable state container for apps.
+* [bartdag/py4j](https://github.com/bartdag/py4j) - Py4J enables Python programs to dynamically access arbitrary Java objects
+* [togglz/togglz](https://github.com/togglz/togglz) - Feature Flags for the Java platform
+* [spring-cloud/spring-cloud-sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) - Distributed tracing for spring cloud
+* [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
+* [jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava) - I was fed up with writing Java classes to mirror json models.  So I wrote this Java app to automate the process.
+* [jonathanlermitage/tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 12 languages. :video_game:
+* [alkacon/opencms-core](https://github.com/alkacon/opencms-core) - The Java open source content management system by Alkacon Software
+* [google/google-oauth-java-client](https://github.com/google/google-oauth-java-client) - Google OAuth Client Library for Java
+* [simplenlg/simplenlg](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation. Originally developed at the University of Aberdeen's Department of Computing Science. This git repo is the official SimpleNLG version.
+* [google/caliper](https://github.com/google/caliper) - Micro-benchmarking library for Java
+* [careermonk/DataStructureAndAlgorithmsMadeEasyInJava](https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava) - Data Structure And Algorithms Made Easy In Java
+* [Peergos/Peergos](https://github.com/Peergos/Peergos) - A decentralised, secure file storage, sharing and social network that's surveillance resistant and doesn't expose your friend network.
+* [NLPchina/Word2VEC_java](https://github.com/NLPchina/Word2VEC_java) - word2vec java版本的一个实现
+* [jcabi/jcabi-aspects](https://github.com/jcabi/jcabi-aspects) - Collection of AOP/AspectJ Java Aspects
+* [Haehnchen/idea-php-laravel-plugin](https://github.com/Haehnchen/idea-php-laravel-plugin) - Laravel Framework Plugin for PhpStorm / IntelliJ IDEA
+* [vbauer/jackdaw](https://github.com/vbauer/jackdaw) - Java Annotation Processor which allows to simplify development
+* [nurkiewicz/async-retry](https://github.com/nurkiewicz/async-retry) - Asynchronous retrying for Java 7/8
+* [MagnusS/Java-BloomFilter](https://github.com/MagnusS/Java-BloomFilter) - A stand-alone Bloom filter implementation written in Java
+* [brahalla/Cerberus](https://github.com/brahalla/Cerberus) - A demonstration of a completely stateless and RESTful token-based authorization system using JSON Web Tokens (JWT) and Spring Security.
+* [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
+* [lionsoul2014/jcseg](https://github.com/lionsoul2014/jcseg) - Jcseg是基于mmseg算法的一个轻量级中文分词器，同时集成了关键字提取，关键短语提取，关键句子提取和文章自动摘要等功能，并且提供了一个基于Jetty的web服务器，方便各大语言直接http调用，同时提供了最新版本的lucene, solr, elasticsearch的分词接口！
+* [jimwebber/neo4j-tutorial](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j
+* [influxdata/influxdb-java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
+* [JodaOrg/joda-money](https://github.com/JodaOrg/joda-money) - Java library to represent monetary amounts.
+* [GoogleCloudPlatform/google-cloud-java](https://github.com/GoogleCloudPlatform/google-cloud-java) - Google Cloud Client Library for Java
+* [dain/snappy](https://github.com/dain/snappy) - Port of Snappy to Java
+* [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
+* [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - Web crawler SDK based on Apache Storm
+* [wg/scrypt](https://github.com/wg/scrypt) - Java implementation of scrypt
+* [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) - Azure Management Libraries for Java
+* [GoodieBag/HorizontalPicker](https://github.com/GoodieBag/HorizontalPicker) - A HorizontalPicker view for android, which supports both text and icon. :sparkles:
+* [fangyidong/json-simple](https://github.com/fangyidong/json-simple) - A simple Java toolkit for JSON. You can use json-simple to encode or decode JSON text.
+* [Codearte/jfairy](https://github.com/Codearte/jfairy) - Java fake data generator
+* [abel533/ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
+* [yegor256/takes](https://github.com/yegor256/takes) - True Object-Oriented Java Web Framework
 * [igniterealtime/Spark](https://github.com/igniterealtime/Spark) - Cross-platform real-time collaboration client optimized for business and organizations.
-* [xetorthio/johm](https://github.com/xetorthio/johm) - JOhm is a Object-hash mapping library for Java for storing objects in Redis
+* [peter-lawrey/HugeCollections-OLD](https://github.com/peter-lawrey/HugeCollections-OLD) - Huge Collections for Java using efficient off heap storage
+* [oxo42/stateless4j](https://github.com/oxo42/stateless4j) - Lightweight Java State Machine
+* [kamranzafar/JCL](https://github.com/kamranzafar/JCL) - Jar Class Loader, a configurable and dynamic custom classloader designed to create, manage and manipulate isolated Java classloaders in IoC frameworks and web applications.
+* [dadoonet/fscrawler](https://github.com/dadoonet/fscrawler) - Elasticsearch File System Crawler (FS Crawler)
 * [kstyrc/embedded-redis](https://github.com/kstyrc/embedded-redis) - Redis embedded server for Java integration testing
 * [jpush/jpush-api-java-client](https://github.com/jpush/jpush-api-java-client) - JiGuang's officially supported Java client library for accessing JPush APIs.   极光官方支持的 Java 版本服务器端 SDK。
-* [quickfix-j/quickfixj](https://github.com/quickfix-j/quickfixj) - The official QuickFIX/J project repository
-* [jcip/jcip.github.com](https://github.com/jcip/jcip.github.com) - Java Concurrency in Practice
-* [influxdata/influxdb-java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
-* [Codearte/jfairy](https://github.com/Codearte/jfairy) - Java fake data generator
-* [brianway/java-learning](https://github.com/brianway/java-learning) - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
+* [hprose/hprose-java](https://github.com/hprose/hprose-java) - Hprose is a cross-language RPC. This project is Hprose  2.0 for Java
+* [googleglass/mirror-quickstart-java](https://github.com/googleglass/mirror-quickstart-java) - Google Mirror API's Quickstart for Java
+* [structurizr/java](https://github.com/structurizr/java) - Structurizr for Java
+* [skadistats/clarity](https://github.com/skadistats/clarity) - Comically fast Java Dota 2 replay parser.
 * [paypal/PayPal-Java-SDK](https://github.com/paypal/PayPal-Java-SDK) - Java SDK for PayPal RESTful APIs
-* [kamranzafar/JCL](https://github.com/kamranzafar/JCL) - Jar Class Loader, a configurable and dynamic custom classloader designed to create, manage and manipulate isolated Java classloaders in IoC frameworks and web applications.
-* [beders/Resty](https://github.com/beders/Resty) - Tiny REST client for Java and JSON.
-* [alphazero/jredis](https://github.com/alphazero/jredis) - Java Client and Connectors for Redis
-* [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
 * [opensagres/xdocreport](https://github.com/opensagres/xdocreport) - XDocReport means XML Document reporting. It's Java API to merge XML document created with MS Office (docx) or OpenOffice (odt), LibreOffice (odt) with a Java model to generate report and convert it if you need to another format (PDF, XHTML...).
-* [Haehnchen/idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin) - Android Studio Plugin
-* [GwtMaterialDesign/gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - A Google Material Design wrapper for GWT
-* [dadoonet/fscrawler](https://github.com/dadoonet/fscrawler) - Elasticsearch File System Crawler (FS Crawler)
-* [cucumber/cuke4duke](https://github.com/cucumber/cuke4duke) - Cucumber support for the JVM: Java, Scala, Groovy, Clojure, Ioke, Javascript, Spring, Guice, PicoContainer, WebDriver, Ant and Maven
-* [Atmosphere/nettosphere](https://github.com/Atmosphere/nettosphere) - A Java WebSocket/HTTP server based on the Atmosphere and Netty Framework
-* [vkostyukov/la4j](https://github.com/vkostyukov/la4j) - Linear Algebra for Java
-* [mkarneim/pojobuilder](https://github.com/mkarneim/pojobuilder) - A Java Code Generator for Pojo Builders
-* [mediarain/RoboCoP](https://github.com/mediarain/RoboCoP) - Pure Java code generation tool for generating a fully functional ContentProvider for Android.
-* [GoodieBag/HorizontalPicker](https://github.com/GoodieBag/HorizontalPicker) - A HorizontalPicker view for android, which supports both text and icon. :sparkles:
-* [fommil/matrix-toolkits-java](https://github.com/fommil/matrix-toolkits-java) - :rocket: High Performance Linear Algebra OOP
-* [demitsuri/smali2java](https://github.com/demitsuri/smali2java) - smali 2 java conversion tool
-* [spullara/redis-protocol](https://github.com/spullara/redis-protocol) - Java client and server implementation of Redis
-* [softwaremill/akka-http-session](https://github.com/softwaremill/akka-http-session) - Web & mobile client-side akka-http sessions, with optional JWT support
-* [sachin-handiekar/jInstagram](https://github.com/sachin-handiekar/jInstagram) - A Java library for the Instagram API.
+* [laforge49/JActor](https://github.com/laforge49/JActor) - Actors for Java
+* [quickfix-j/quickfixj](https://github.com/quickfix-j/quickfixj) - The official QuickFIX/J project repository
+* [milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android) - Circular Slider UI Control for Android
 * [GlowstoneMC/Glowstone](https://github.com/GlowstoneMC/Glowstone) - A fast, customizable and compatible open source Minecraft server.
-* [gdg-x/frisbee](https://github.com/gdg-x/frisbee) - Android application for GDG members and organizers
-* [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - Android端搭建简单的Http服务器的框架，傻瓜式构建，和Java的Servlet一样。
-* [cping/LGame](https://github.com/cping/LGame) - This is free 2d game development framework(Java Game Engine), support JavaSE/Android/IOS/WP7/HTML5/PSM/Linux/MAC/Windows and Default support Ripple protocol
-* [vimeo/stag-java](https://github.com/vimeo/stag-java) - Speedy Type Adapter Generation
-* [weld/core](https://github.com/weld/core) - Weld, including integrations for Servlet containers and Java SE, examples and documentation
-* [basho/riak-java-client](https://github.com/basho/riak-java-client) - The Riak client for Java.
-* [abel533/ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
-* [yegor256/eo](https://github.com/yegor256/eo) - EO programming language
+* [sachin-handiekar/jInstagram](https://github.com/sachin-handiekar/jInstagram) - A Java library for the Instagram API.
+* [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+* [spring-projects/spring-statemachine](https://github.com/spring-projects/spring-statemachine) - Spring Statemachine is a framework for application developers to use state machine concepts with Spring.
+* [nielsutrecht/jwt-angular-spring](https://github.com/nielsutrecht/jwt-angular-spring) - JSON Web Token example that integrates both a Spring backend with an AngularJS frontend.
+* [jankotek/JDBM3](https://github.com/jankotek/JDBM3) - Embedded Key Value Java Database
+* [alphazero/jredis](https://github.com/alphazero/jredis) - Java Client and Connectors for Redis
+* [xetorthio/johm](https://github.com/xetorthio/johm) - JOhm is a Object-hash mapping library for Java for storing objects in Redis
+* [softwaremill/akka-http-session](https://github.com/softwaremill/akka-http-session) - Web & mobile client-side akka-http sessions, with optional JWT support
+* [jcip/jcip.github.com](https://github.com/jcip/jcip.github.com) - Java Concurrency in Practice
 * [ewolff/microservice](https://github.com/ewolff/microservice) - Sample of a Microservice setup for my book. Based on Spring Cloud / Netflix / Java / Docker / Docker Compose / Docker Machine / Vagrant
 * [sualeh/SchemaCrawler](https://github.com/sualeh/SchemaCrawler) - Free database schema discovery and comprehension tool
-* [amaembo/huntbugs](https://github.com/amaembo/huntbugs) - Java bytecode static analyzer
-* [nielsutrecht/jwt-angular-spring](https://github.com/nielsutrecht/jwt-angular-spring) - JSON Web Token example that integrates both a Spring backend with an AngularJS frontend.
-* [lemire/JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - A simple integer compression library in Java
-* [flaxsearch/luwak](https://github.com/flaxsearch/luwak) - A java library for stored queries
-* [twilio/twilio-java](https://github.com/twilio/twilio-java) - A Java library for communicating with the Twilio REST API and generating TwiML.
-* [mmBs/NavigationDrawerSI](https://github.com/mmBs/NavigationDrawerSI) - Navigation Drawer Simple Implementation
-* [GoogleCloudPlatform/google-cloud-java](https://github.com/GoogleCloudPlatform/google-cloud-java) - Google Cloud Client Library for Java
-* [cowtowncoder/java-uuid-generator](https://github.com/cowtowncoder/java-uuid-generator) - Java Uuid Generator (JUG) is a library for generating all (3) types of UUIDs on Java. See (http://github.com/tlaukkan/mono-uuid-generator) for C#-based sister project!
-* [ZhaoKaiQiang/JianDanRxJava](https://github.com/ZhaoKaiQiang/JianDanRxJava) - 使用Rxjava重构煎蛋高仿
-* [Nike-Inc/wingtips](https://github.com/Nike-Inc/wingtips) - Wingtips is a distributed tracing solution for Java based on the Google Dapper paper.
-* [michelelacorte/ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Elastic Progress Bar Renew!
-* [pac4j/play-pac4j](https://github.com/pac4j/play-pac4j) - Security library for Play framework 2 in Java and Scala: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
-* [lemire/javaewah](https://github.com/lemire/javaewah) - A compressed alternative to the Java BitSet class
-* [apereo/java-cas-client](https://github.com/apereo/java-cas-client) - Apereo Java CAS Client
+* [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) -   AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
+* [networknt/light-java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework
+* [mkarneim/pojobuilder](https://github.com/mkarneim/pojobuilder) - A Java Code Generator for Pojo Builders
+* [fommil/matrix-toolkits-java](https://github.com/fommil/matrix-toolkits-java) - :rocket: High Performance Linear Algebra OOP
+* [demitsuri/smali2java](https://github.com/demitsuri/smali2java) - smali 2 java conversion tool
+* [beders/Resty](https://github.com/beders/Resty) - Tiny REST client for Java and JSON.
+* [Atmosphere/nettosphere](https://github.com/Atmosphere/nettosphere) - A Java WebSocket/HTTP server based on the Atmosphere and Netty Framework
+* [jiecao-fm/hashids-java](https://github.com/jiecao-fm/hashids-java) - Impelement Hashids latest v1.0.0
+* [Haehnchen/idea-android-studio-plugin](https://github.com/Haehnchen/idea-android-studio-plugin) - Android Studio Plugin
+* [GwtMaterialDesign/gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - A Google Material Design wrapper for GWT
+* [yegor256/eo](https://github.com/yegor256/eo) - EO programming language
+* [cucumber/cuke4duke](https://github.com/cucumber/cuke4duke) - Cucumber support for the JVM: Java, Scala, Groovy, Clojure, Ioke, Javascript, Spring, Guice, PicoContainer, WebDriver, Ant and Maven
+* [vkostyukov/la4j](https://github.com/vkostyukov/la4j) - Linear Algebra for Java
 * [Ullink/simple-slack-api](https://github.com/Ullink/simple-slack-api) - (simple) Java Slack client library
-* [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+* [spullara/redis-protocol](https://github.com/spullara/redis-protocol) - Java client and server implementation of Redis
+* [gdg-x/frisbee](https://github.com/gdg-x/frisbee) - Android application for GDG members and organizers
+* [vimeo/stag-java](https://github.com/vimeo/stag-java) - Speedy Type Adapter Generation
 * [inspectIT/inspectIT](https://github.com/inspectIT/inspectIT) - inspectIT is the leading Open Source APM (Application Performance Management) tool for analyzing your Java (EE) applications.
-* [BlackBoxVision/material-calendar-view](https://github.com/BlackBoxVision/material-calendar-view) - :calendar: Material Design Calendar compatible with API 11+
-* [awslabs/amazon-kinesis-client](https://github.com/awslabs/amazon-kinesis-client) - Client library for Amazon Kinesis
+* [cping/LGame](https://github.com/cping/LGame) - This is free 2d game development framework(Java Game Engine), support JavaSE/Android/IOS/WP7/HTML5/PSM/Linux/MAC/Windows and Default support Ripple protocol
+* [weld/core](https://github.com/weld/core) - Weld, including integrations for Servlet containers and Java SE, examples and documentation
+* [mediarain/RoboCoP](https://github.com/mediarain/RoboCoP) - Pure Java code generation tool for generating a fully functional ContentProvider for Android.
+* [apereo/java-cas-client](https://github.com/apereo/java-cas-client) - Apereo Java CAS Client
 * [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver) - The open source BIMserver.org platform
-* [microg/android_packages_apps_UnifiedNlp](https://github.com/microg/android_packages_apps_UnifiedNlp) - The next generation Network Location Provider, based on plugins.
+* [flaxsearch/luwak](https://github.com/flaxsearch/luwak) - A java library for stored queries
 * [itdelatrisu/opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
+* [basho/riak-java-client](https://github.com/basho/riak-java-client) - The Riak client for Java.
+* [DigitalPebble/behemoth](https://github.com/DigitalPebble/behemoth) - Behemoth is an open source platform for large scale document analysis based on Apache Hadoop.
+* [cowtowncoder/java-uuid-generator](https://github.com/cowtowncoder/java-uuid-generator) - Java Uuid Generator (JUG) is a library for generating all (3) types of UUIDs on Java. See (http://github.com/tlaukkan/mono-uuid-generator) for C#-based sister project!
+* [amaembo/huntbugs](https://github.com/amaembo/huntbugs) - Java bytecode static analyzer
+* [pac4j/play-pac4j](https://github.com/pac4j/play-pac4j) - Security library for Play framework 2 in Java and Scala: OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
+* [microg/android_packages_apps_UnifiedNlp](https://github.com/microg/android_packages_apps_UnifiedNlp) - The next generation Network Location Provider, based on plugins.
+* [michelelacorte/ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Elastic Progress Bar Renew!
+* [lemire/JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - A simple integer compression library in Java
+* [KKys/ZhiHuSpider](https://github.com/KKys/ZhiHuSpider) - Java无框架实现爬取知乎用户信息、图片和知乎推荐内容并下载到本地或数据库中
+* [BlackBoxVision/material-calendar-view](https://github.com/BlackBoxVision/material-calendar-view) - :calendar: Material Design Calendar compatible with API 11+
+* [mmBs/NavigationDrawerSI](https://github.com/mmBs/NavigationDrawerSI) - Navigation Drawer Simple Implementation
+* [madflow/flow-netbeans-markdown](https://github.com/madflow/flow-netbeans-markdown) - Markdown file support for the NetBeans IDE
+* [ZhaoKaiQiang/JianDanRxJava](https://github.com/ZhaoKaiQiang/JianDanRxJava) - 使用Rxjava重构煎蛋高仿
+* [twilio/twilio-java](https://github.com/twilio/twilio-java) - A Java library for communicating with the Twilio REST API and generating TwiML.
+* [benas/random-beans](https://github.com/benas/random-beans) - Because life is too short to generate random Java beans by hand..
+* [anupcowkur/here-be-dragons](https://github.com/anupcowkur/here-be-dragons) - An Intellij/Android Studio plugin to help visualise side effects in your code.
+* [Nike-Inc/wingtips](https://github.com/Nike-Inc/wingtips) - Wingtips is a distributed tracing solution for Java based on the Google Dapper paper.
+* [Esri/geometry-api-java](https://github.com/Esri/geometry-api-java) - The Esri Geometry API for Java enables developers to write custom applications for analysis of spatial data.  This API is used in the Esri GIS Tools for Hadoop and other 3rd-party data processing solutions.
+* [broadinstitute/picard](https://github.com/broadinstitute/picard) - A set of command line tools (in Java) for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
 * [ThreeTen/threetenbp](https://github.com/ThreeTen/threetenbp) - Backport of functionality based on JSR-310 to Java SE 6 and 7. This is NOT an implementation of JSR-310.
+* [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
 * [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) - Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.
+* [awslabs/amazon-kinesis-client](https://github.com/awslabs/amazon-kinesis-client) - Client library for Amazon Kinesis
+* [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
+* [lemire/javaewah](https://github.com/lemire/javaewah) - A compressed alternative to the Java BitSet class
 * [Beh01der/EasyFlow](https://github.com/Beh01der/EasyFlow) - EasyFlow - Simple and lightweight Finite State Machine for Java
 * [RuedigerMoeller/kontraktor](https://github.com/RuedigerMoeller/kontraktor) - distributed Actors for Java 8 http://ruedigermoeller.github.io/kontraktor/
-* [OpenHFT/Java-Lang](https://github.com/OpenHFT/Java-Lang) - Java Language support
-* [broadinstitute/picard](https://github.com/broadinstitute/picard) - A set of command line tools (in Java) for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
-* [KKys/ZhiHuSpider](https://github.com/KKys/ZhiHuSpider) - Java无框架实现爬取知乎用户信息、图片和知乎推荐内容并下载到本地或数据库中
-* [jiecao-fm/hashids-java](https://github.com/jiecao-fm/hashids-java) - Impelement Hashids latest v1.0.0
-* [Esri/geometry-api-java](https://github.com/Esri/geometry-api-java) - The Esri Geometry API for Java enables developers to write custom applications for analysis of spatial data.  This API is used in the Esri GIS Tools for Hadoop and other 3rd-party data processing solutions.
-* [roundrop/facebook4j](https://github.com/roundrop/facebook4j) - A most easily usable Facebook API wrapper in Java.
-* [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - Meteor's Distributed Data Protocol (DDP) for clients on Android
-* [tabulapdf/tabula-java](https://github.com/tabulapdf/tabula-java) - Extract tables from PDF files
-* [korhner/asciimg](https://github.com/korhner/asciimg) - An ascii image generator written in Java.
 * [cyfonly/FLogger](https://github.com/cyfonly/FLogger) - 基于双缓冲队列、多刷盘机制的超轻量级 java 日志
-* [shiffman/Most-Pixels-Ever-Processing](https://github.com/shiffman/Most-Pixels-Ever-Processing) - The Most Pixels Ever is an open-source Java and C++ framework for spanning Processing sketches and openFrameworks applications across multiple screens.
-* [EdwardRaff/JSAT](https://github.com/EdwardRaff/JSAT) - Java Statistical Analysis Tool, a Java library for Machine Learning
-* [benas/random-beans](https://github.com/benas/random-beans) - Because life is too short to generate random Java beans by hand..
 * [Backblaze/JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) - Backblaze Reed-Solomon Implementation in Java
-* [zhiyuncloud/aixuexiao](https://github.com/zhiyuncloud/aixuexiao) - 一个基于SAE Java平台的微信平台公众帐号应用例子（使用Spring/SpringMVC/MyBatis框架）详情访问：http://aixuexiao.sinaapp.com
-* [openstreetmap/osmosis](https://github.com/openstreetmap/osmosis) - Osmosis is a command line Java application for processing OSM data.
-* [Baqend/Orestes-Bloomfilter](https://github.com/Baqend/Orestes-Bloomfilter) - Library of different Bloom filters in Java with optional Redis-backing, counting and many hashing options.
-* [networknt/light-java](https://github.com/networknt/light-java) - A fast, lightweight and more productive microservices framework
-* [clun/ff4j](https://github.com/clun/ff4j) - Feature Flipping for Java made easy
-* [jeremyh/jBCrypt](https://github.com/jeremyh/jBCrypt) - A Java implementation of OpenBSD's Blowfish password hashing code
-* [uklimaschewski/EvalEx](https://github.com/uklimaschewski/EvalEx) - EvalEx is a handy expression evaluator for Java, that allows to evaluate simple mathematical and boolean expressions.
+* [OpenHFT/Java-Lang](https://github.com/OpenHFT/Java-Lang) - Java Language support
+* [EdwardRaff/JSAT](https://github.com/EdwardRaff/JSAT) - Java Statistical Analysis Tool, a Java library for Machine Learning
 * [derive4j/derive4j](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, morphisms, (near future: optics and typeclasses)
-* [jirutka/spring-rest-exception-handler](https://github.com/jirutka/spring-rest-exception-handler) - A convenient Spring MVC exception handler for RESTful APIs.
+* [Baqend/Orestes-Bloomfilter](https://github.com/Baqend/Orestes-Bloomfilter) - Library of different Bloom filters in Java with optional Redis-backing, counting and many hashing options.
 * [arthurblake/log4jdbc](https://github.com/arthurblake/log4jdbc) - log4jdbc is a Java JDBC driver that can log SQL and/or JDBC calls (and optionally SQL timing information) for other JDBC drivers using the Simple Logging Facade For Java (SLF4J) logging system.
-* [helun/Ektorp](https://github.com/helun/Ektorp) - Java API for CouchDB
+* [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - Meteor's Distributed Data Protocol (DDP) for clients on Android
+* [clun/ff4j](https://github.com/clun/ff4j) - Feature Flipping for Java made easy
+* [roundrop/facebook4j](https://github.com/roundrop/facebook4j) - A most easily usable Facebook API wrapper in Java.
+* [JetBrains/xodus](https://github.com/JetBrains/xodus) - JetBrains Xodus is a Java transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
+* [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java
+* [shawnfan/LintCode](https://github.com/shawnfan/LintCode) - Java Solutions to problems on LintCode
+* [korhner/asciimg](https://github.com/korhner/asciimg) - An ascii image generator written in Java.
+* [jeremyh/jBCrypt](https://github.com/jeremyh/jBCrypt) - A Java implementation of OpenBSD's Blowfish password hashing code
 * [javers/javers](https://github.com/javers/javers) - JaVers - object auditing and diff framework for Java
-* [getsentry/raven-java](https://github.com/getsentry/raven-java) - A Sentry SDK for Java and other JVM languages.
-* [cfg4j/cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
-* [ahmetb/orman](https://github.com/ahmetb/orman) - lightweight and minimalist ORM for Java/Android. works with SQLite & MySQL. (not actively maintained)
-* [trautonen/coveralls-maven-plugin](https://github.com/trautonen/coveralls-maven-plugin) - Maven plugin for submitting Java code coverage reports to Coveralls web service.
+* [zhiyuncloud/aixuexiao](https://github.com/zhiyuncloud/aixuexiao) - 一个基于SAE Java平台的微信平台公众帐号应用例子（使用Spring/SpringMVC/MyBatis框架）详情访问：http://aixuexiao.sinaapp.com
+* [shiffman/Most-Pixels-Ever-Processing](https://github.com/shiffman/Most-Pixels-Ever-Processing) - The Most Pixels Ever is an open-source Java and C++ framework for spanning Processing sketches and openFrameworks applications across multiple screens.
+* [openstreetmap/osmosis](https://github.com/openstreetmap/osmosis) - Osmosis is a command line Java application for processing OSM data.
+* [uklimaschewski/EvalEx](https://github.com/uklimaschewski/EvalEx) - EvalEx is a handy expression evaluator for Java, that allows to evaluate simple mathematical and boolean expressions.
 * [maxmind/GeoIP2-java](https://github.com/maxmind/GeoIP2-java) - Java API for GeoIP2 webservice client and database reader
-* [CovertJaguar/Railcraft](https://github.com/CovertJaguar/Railcraft) - The Railcraft Mod for Minecraft, source and development.
-* [tumblr/jumblr](https://github.com/tumblr/jumblr) - Tumblr API v2 Java Client
-* [stripe/stripe-java](https://github.com/stripe/stripe-java) - Stripe Java bindings
-* [mulesoft-labs/raml-for-jax-rs](https://github.com/mulesoft-labs/raml-for-jax-rs) - This project is all about two way transformation of JAX-RS-annotated Java code to  RAML API description and back.
-* [robert-bor/aho-corasick](https://github.com/robert-bor/aho-corasick) - Java implementation of the Aho-Corasick algorithm for efficient string matching
-* [draptik/angulardemorestful](https://github.com/draptik/angulardemorestful) - AngularJs intro: Focusing on the REST part with examples in java, nodejs and even dotnet ;-)
-* [airlift/slice](https://github.com/airlift/slice) - Java library for efficiently working with heap and off-heap memory
+* [cfg4j/cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
 * [sakaiproject/sakai](https://github.com/sakaiproject/sakai) - Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software suite developed by a diverse and global adopter community.
-* [krasa/EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ.
+* [jirutka/spring-rest-exception-handler](https://github.com/jirutka/spring-rest-exception-handler) - A convenient Spring MVC exception handler for RESTful APIs.
 * [asciidoctor/asciidoctorj](https://github.com/asciidoctor/asciidoctorj) - :coffee: Java bindings for Asciidoctor. Asciidoctor on the JVM!
-* [Yarikx/reductor](https://github.com/Yarikx/reductor) - Redux for Android. Predictable state container library for Java/Android
-* [mgouline/android-samples](https://github.com/mgouline/android-samples) - Sample Android code for the tutorials.
-* [EsotericSoftware/yamlbeans](https://github.com/EsotericSoftware/yamlbeans) - Java object graphs, to and from YAML automatically
-* [donpark/identicon](https://github.com/donpark/identicon) - Original Identicon java and canvas implementations
+* [trautonen/coveralls-maven-plugin](https://github.com/trautonen/coveralls-maven-plugin) - Maven plugin for submitting Java code coverage reports to Coveralls web service.
+* [helun/Ektorp](https://github.com/helun/Ektorp) - Java API for CouchDB
+* [robert-bor/aho-corasick](https://github.com/robert-bor/aho-corasick) - Java implementation of the Aho-Corasick algorithm for efficient string matching
+* [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
+* [getsentry/raven-java](https://github.com/getsentry/raven-java) - A Sentry SDK for Java and other JVM languages.
 * [ajalt/reprint](https://github.com/ajalt/reprint) - A unified fingerprint library for android.
-* [zsoltherpai/feather](https://github.com/zsoltherpai/feather) - Lightweight dependency injection for Java and Android (JSR-330)
-* [Waffle/waffle](https://github.com/Waffle/waffle) - Enable drop-in Windows Single Sign On for popular Java web servers.
+* [bigmeow/JWT](https://github.com/bigmeow/JWT) - webapp用户身份认证方案 JSON WEB TOKEN 实现Deme示例，Java版
+* [Yarikx/reductor](https://github.com/Yarikx/reductor) - Redux for Android. Predictable state container library for Java/Android
+* [krasa/EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
+* [CovertJaguar/Railcraft](https://github.com/CovertJaguar/Railcraft) - The Railcraft Mod for Minecraft, source and development.
+* [ahmetb/orman](https://github.com/ahmetb/orman) - lightweight and minimalist ORM for Java/Android. works with SQLite & MySQL. (not actively maintained)
+* [b3log/latke](https://github.com/b3log/latke) - :hotsprings: A Spring-like, JSON based Java Web Framework . 一个类似 Spring 但以 JSON 为主的 Java Web 框架。
+* [tumblr/jumblr](https://github.com/tumblr/jumblr) - Tumblr API v2 Java Client
+* [stripe/stripe-java](https://github.com/stripe/stripe-java) - Java library for the Stripe API.
+* [neoremind/fluent-validator](https://github.com/neoremind/fluent-validator) - A Java validation framework leveraging fluent interface style and JSR 303 specification
+* [mulesoft-labs/raml-for-jax-rs](https://github.com/mulesoft-labs/raml-for-jax-rs) - This project is all about two way transformation of JAX-RS-annotated Java code to  RAML API description and back.
+* [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automatic Selenium WebDriver binaries management in runtime for Java
+* [xianrendzw/EasyReport](https://github.com/xianrendzw/EasyReport) - A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。
+* [airlift/slice](https://github.com/airlift/slice) - Java library for efficiently working with heap and off-heap memory
+* [draptik/angulardemorestful](https://github.com/draptik/angulardemorestful) - AngularJs intro: Focusing on the REST part with examples in java, nodejs and even dotnet ;-)
 * [qiniu/java-sdk](https://github.com/qiniu/java-sdk) - Qiniu Resource (Cloud) Storage SDK for Java
-* [hibernate/hibernate-ogm](https://github.com/hibernate/hibernate-ogm) - Hibernate OGM - Domain model persistence for NoSQL datastores
-* [cloudfoundry/java-buildpack-auto-reconfiguration](https://github.com/cloudfoundry/java-buildpack-auto-reconfiguration) - Auto-reconfiguration functionality for the Java Buildpack
+* [EsotericSoftware/yamlbeans](https://github.com/EsotericSoftware/yamlbeans) - Java object graphs, to and from YAML automatically
+* [Waffle/waffle](https://github.com/Waffle/waffle) - Enable drop-in Windows Single Sign On for popular Java web servers.
 * [undera/jmeter-plugins](https://github.com/undera/jmeter-plugins) - JMeter Plugins
 * [OrbitzWorldwide/consul-client](https://github.com/OrbitzWorldwide/consul-client) - Java Client for Consul HTTP API
-* [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 * [mono/sharpen](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into c#
-* [johncarl81/transfuse](https://github.com/johncarl81/transfuse) - :syringe: Transfuse - A Dependency Injection and Integration framework for Google Android
-* [b3log/latke](https://github.com/b3log/latke) - :hotsprings: A Spring-like, JSON based Java Web Framework . 一个类似 Spring 但以 JSON 为主的 Java Web 框架。
-* [zkoss/zk](https://github.com/zkoss/zk) - ZK is a highly productive Java framework for building amazing enterprise web and mobile applications
-* [jitsi/libjitsi](https://github.com/jitsi/libjitsi) - Advanced Java media library for secure real-time audio/video communication.
-* [hunterhacker/jdom](https://github.com/hunterhacker/jdom) - Java manipulation of XML made easy
-* [JetBrains/xodus](https://github.com/JetBrains/xodus) - JetBrains Xodus is a Java transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
-* [hibernate/hibernate-search](https://github.com/hibernate/hibernate-search) - Hibernate Search: full-text search for domain model
-* [google/openrtb](https://github.com/google/openrtb) - OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
-* [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming
-* [3pillarlabs/socialauth](https://github.com/3pillarlabs/socialauth) - Java Library for authentication, getting profile, contacts and updating status on Google, Yahoo, Facebook, Twitter, LinkedIn, and many more providers
-* [neoremind/fluent-validator](https://github.com/neoremind/fluent-validator) - A Java validation framework leveraging fluent interface style and JSR 303 specification
-* [davidar/lljvm](https://github.com/davidar/lljvm) - Low Level Java Virtual Machine
-* [asterisk-java/asterisk-java](https://github.com/asterisk-java/asterisk-java) - The free Java library for Asterisk PBX integration.
-* [yuki-lau/weibo-spider](https://github.com/yuki-lau/weibo-spider) - 新浪微博爬虫，采用Java语言开发，基于HTTPClient 4.0，采用MySQL存储爬取数据，支持多进程并发执行。功能包括：爬取微博、评论、转发、关注列表（层次）。根据数据需求，持续更新...
-* [kaaes/spotify-web-api-android](https://github.com/kaaes/spotify-web-api-android) - A wrapper for Spotify Web API. It uses Retrofit to create Java interfaces from API endpoints
-* [dcm4che/dcm4che](https://github.com/dcm4che/dcm4che) - DICOM Implementation in JAVA
-* [wmixvideo/nfe](https://github.com/wmixvideo/nfe) - Nota Fiscal Eletrônica em Java
 * [typetools/checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
-* [Mach5/supersonic](https://github.com/Mach5/supersonic) - Open-source web-based media streamer and jukebox fork of Subsonic. Supports MP3, OGG, AAC and other streamable audio and video formats. Runs on Windows, GNU/Linux and Mac using Java.
-* [xianrendzw/EasyReport](https://github.com/xianrendzw/EasyReport) - A simple and easy to use Web Report System for java.EasyReport是一个简单易用的Web报表工具(支持Hadoop,HBase及各种关系型数据库),它的主要功能是把SQL语句查询出的行列结构转换成HTML表格(Table)，并支持表格的跨行(RowSpan)与跨列(ColSpan)。同时它还支持报表Excel导出、图表显示及固定表头与左边列的功能。
-* [tananaev/traccar-client-android](https://github.com/tananaev/traccar-client-android) - Traccar Client for Android
-* [bwaldvogel/liblinear-java](https://github.com/bwaldvogel/liblinear-java) - Java version of LIBLINEAR
-* [bonigarcia/webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automatic Selenium WebDriver binaries management in runtime for Java
-* [bigmeow/JWT](https://github.com/bigmeow/JWT) - webapp用户身份认证方案 JSON WEB TOKEN 实现Deme示例，Java版
-* [arquillian/arquillian-core](https://github.com/arquillian/arquillian-core) - Arquillian provides a component model for integration tests, which includes dependency injection and container life cycle management. Instead of managing a runtime in your test, Arquillian brings your test to the runtime.
-* [SwiftJava/SwiftJava](https://github.com/SwiftJava/SwiftJava) - Swift to Java Bridge
-* [rcarz/jira-client](https://github.com/rcarz/jira-client) - A simple JIRA REST client for Java
+* [hibernate/hibernate-ogm](https://github.com/hibernate/hibernate-ogm) - Hibernate OGM - Domain model persistence for NoSQL datastores
+* [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+* [donpark/identicon](https://github.com/donpark/identicon) - Original Identicon java and canvas implementations
+* [yuki-lau/weibo-spider](https://github.com/yuki-lau/weibo-spider) - 新浪微博爬虫，采用Java语言开发，基于HTTPClient 4.0，采用MySQL存储爬取数据，支持多进程并发执行。功能包括：爬取微博、评论、转发、关注列表（层次）。根据数据需求，持续更新...
+* [google/openrtb](https://github.com/google/openrtb) - OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
+* [cordova-plugin-camera-preview/cordova-plugin-camera-preview](https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
+* [jitsi/libjitsi](https://github.com/jitsi/libjitsi) - Advanced Java media library for secure real-time audio/video communication.
+* [zsoltherpai/feather](https://github.com/zsoltherpai/feather) - Lightweight dependency injection for Java and Android (JSR-330)
+* [zkoss/zk](https://github.com/zkoss/zk) - ZK is a highly productive Java framework for building amazing enterprise web and mobile applications
+* [mgouline/android-samples](https://github.com/mgouline/android-samples) - Sample Android code for the tutorials.
+* [cloudfoundry/java-buildpack-auto-reconfiguration](https://github.com/cloudfoundry/java-buildpack-auto-reconfiguration) - Auto-reconfiguration functionality for the Java Buildpack
+* [chocoteam/choco-solver](https://github.com/chocoteam/choco-solver) - An open-source Java library for Constraint Programming
+* [johncarl81/transfuse](https://github.com/johncarl81/transfuse) - :syringe: Transfuse - A Dependency Injection and Integration framework for Google Android
+* [dcm4che/dcm4che](https://github.com/dcm4che/dcm4che) - DICOM Implementation in JAVA
+* [3pillarlabs/socialauth](https://github.com/3pillarlabs/socialauth) - Java Library for authentication, getting profile, contacts and updating status on Google, Yahoo, Facebook, Twitter, LinkedIn, and many more providers
+* [yuzhangcmu/LeetCode](https://github.com/yuzhangcmu/LeetCode) - LeetCode solutions written in Java
+* [x-stream/xstream](https://github.com/x-stream/xstream) - Serialize Java objects to XML and back again.
+* [tbroyer/gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) - Gradle plugin to use the error-prone compiler for Java
+* [realm/realm-android-adapters](https://github.com/realm/realm-android-adapters) - Adapters for combining Realm Java with Android UI components and framework classes
+* [hibernate/hibernate-search](https://github.com/hibernate/hibernate-search) - Hibernate Search: full-text search for domain model
+* [davidar/lljvm](https://github.com/davidar/lljvm) - Low Level Java Virtual Machine
+* [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+* [hunterhacker/jdom](https://github.com/hunterhacker/jdom) - Java manipulation of XML made easy
+* [benwilcock/microservice-sampler](https://github.com/benwilcock/microservice-sampler) - A Java Microservice & CQRS Demo using Spring Boot, Axon & Docker
+* [Yalantis/Watchface-Constructor](https://github.com/Yalantis/Watchface-Constructor) - This is simple watchface constructor demo
+* [wmixvideo/nfe](https://github.com/wmixvideo/nfe) - Nota Fiscal Eletrônica em Java
+* [asterisk-java/asterisk-java](https://github.com/asterisk-java/asterisk-java) - The free Java library for Asterisk PBX integration.
+* [kaaes/spotify-web-api-android](https://github.com/kaaes/spotify-web-api-android) - A wrapper for Spotify Web API. It uses Retrofit to create Java interfaces from API endpoints
 * [OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java
+* [google/conscrypt](https://github.com/google/conscrypt) - Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
+* [bwaldvogel/liblinear-java](https://github.com/bwaldvogel/liblinear-java) - Java version of LIBLINEAR
+* [austinv11/Discord4J](https://github.com/austinv11/Discord4J) - Java interface for the Discord API
+* [arquillian/arquillian-core](https://github.com/arquillian/arquillian-core) - Arquillian provides a component model for integration tests, which includes dependency injection and container life cycle management. Instead of managing a runtime in your test, Arquillian brings your test to the runtime.
+* [tananaev/traccar-client-android](https://github.com/tananaev/traccar-client-android) - Traccar Client for Android
+* [SwiftJava/SwiftJava](https://github.com/SwiftJava/SwiftJava) - Swift to Java Bridge
+* [super-csv/super-csv](https://github.com/super-csv/super-csv) - A fast, programmer-friendly, free CSV library for Java
+* [forge/roaster](https://github.com/forge/roaster) - A Java Parser library that allows easy parsing and formatting of Java source files
+* [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
+* [jayway/JsonPath](https://github.com/jayway/JsonPath) - Java JsonPath implementation
+* [HeinrichReimer/material-intro](https://github.com/HeinrichReimer/material-intro) - A simple material design app intro with cool animations and a simple API.
+* [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console based JVM monitoring
+* [droolsjbpm/optaplanner](https://github.com/droolsjbpm/optaplanner) - Java planning engine: OptaPlanner optimizes business resource scheduling and planning.
+* [mp911de/lettuce](https://github.com/mp911de/lettuce) - Advanced Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+* [HeinrichReimer/material-drawer](https://github.com/HeinrichReimer/material-drawer) - Custom drawer implementation for Material design apps.
+* [dotCMS/core](https://github.com/dotCMS/core) - Source Code for dotCMS Java Enterprise Content Management System
+* [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - Android端搭建简单的Http服务器的框架，傻瓜式构建，和Java的Servlet一样。
+* [Mach5/supersonic](https://github.com/Mach5/supersonic) - Open-source web-based media streamer and jukebox fork of Subsonic. Supports MP3, OGG, AAC and other streamable audio and video formats. Runs on Windows, GNU/Linux and Mac using Java.
+* [rcarz/jira-client](https://github.com/rcarz/jira-client) - A simple JIRA REST client for Java
 * [couchbase/couchbase-java-client](https://github.com/couchbase/couchbase-java-client) - The official Java client for Couchbase Server
 * [dropbox/dropbox-sdk-java](https://github.com/dropbox/dropbox-sdk-java) - A Java library for the Dropbox Core API.
 * [daveclayton/json-patch](https://github.com/daveclayton/json-patch) - An RFC 6902 (JSON Patch) and reverse, plus RFC 7386 (JSON Merge Patch), implementation in Java using Jackson (2.2.x)
-* [Yalantis/Watchface-Constructor](https://github.com/Yalantis/Watchface-Constructor) - This is simple watchface constructor demo
-* [super-csv/super-csv](https://github.com/super-csv/super-csv) - A fast, programmer-friendly, free CSV library for Java
-* [shawnfan/LintCode](https://github.com/shawnfan/LintCode) - Java Solutions to problems on LintCode
 * [sanity/quickml](https://github.com/sanity/quickml) - A fast and easy to use decision tree learner in java
-* [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java) - OpenTracing API for Java
 * [movisens/SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices
 * [jesse01/WebViewJavascriptBridge](https://github.com/jesse01/WebViewJavascriptBridge) - WebViewJavascriptBridge for Android
-* [google/conscrypt](https://github.com/google/conscrypt) - Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
-* [forge/roaster](https://github.com/forge/roaster) - A Java Parser library that allows easy parsing and formatting of Java source files
 * [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - :mag: A simple 0-dependency thread-safe lib for setting dns programmatically without touching host file, make unit/integration test portable.
 * [VictorAlbertos/ReactiveCache](https://github.com/VictorAlbertos/ReactiveCache) - A reactive cache for Android and Java which honors the reactive chain.
 * [grundid/nfctools](https://github.com/grundid/nfctools) - nfctools library for Java
 * [brettwooldridge/NuProcess](https://github.com/brettwooldridge/NuProcess) - Low-overhead, non-blocking I/O, external Process implementation for Java
-* [yuzhangcmu/LeetCode](https://github.com/yuzhangcmu/LeetCode) - LeetCode solutions written in Java
 * [qalingo/qalingo-engine](https://github.com/qalingo/qalingo-engine) - Qalingo : B2C B2B Engine (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM) (based on Spring, Hibernate, Velocity, Drools, SOLR)
-* [x-stream/xstream](https://github.com/x-stream/xstream) - Serialize Java objects to XML and back again.
 * [vRallev/OpenCV](https://github.com/vRallev/OpenCV) - The OpenCV Java project for Android.
-* [cordova-plugin-camera-preview/cordova-plugin-camera-preview](https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview) - Cordova plugin that allow camera interaction from HTML code
 * [Workable/java-error-handler](https://github.com/Workable/java-error-handler) - Error handling library for Android and Java
 * [spring-cloud/spring-cloud-consul](https://github.com/spring-cloud/spring-cloud-consul) - Spring Cloud Consul
 * [RamosLi/dbay-apns-for-java](https://github.com/RamosLi/dbay-apns-for-java) - High performance Java client for APNS(Apple Push Notification Service)
@@ -878,14 +923,11 @@ A curated list of awesome Java frameworks, libraries and software.
 * [jsonld-java/jsonld-java](https://github.com/jsonld-java/jsonld-java) - JSON-LD implementation for Java
 * [agoncal/agoncal-book-javaee7](https://github.com/agoncal/agoncal-book-javaee7) - Code of the future Java EE 7 Book
 * [wg/lettuce](https://github.com/wg/lettuce) - Scalable Java Redis client
-* [tbroyer/gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) - Gradle plugin to use the error-prone compiler for Java
 * [jasonsantos/luajava](https://github.com/jasonsantos/luajava) - LuaJava is a scripting tool for Java. The goal of this tool is to allow scripts written in Lua to manipulate components developed in Java. LuaJava allows Java components to be accessed from Lua using the same syntax that is used for accessing Lua`s native objects, without any need for declarations or any kind of preprocessing.  LuaJava also allows Java to implement an interface using Lua. This way any interface can be implemented in Lua and passed as parameter to any method, and when called, the equivalent function will be called in Lua, and it's result passed back to Java.
 * [rythmengine/rythmengine](https://github.com/rythmengine/rythmengine) - A "Razor" like, rich featured, high performance and easy to use Java template engine
-* [realm/realm-android-adapters](https://github.com/realm/realm-android-adapters) - Adapters for combining Realm Java with Android UI components and framework classes
 * [MoriTanosuke/glacieruploader](https://github.com/MoriTanosuke/glacieruploader) - A simple java command line application for Amazon Glacier
 * [geecko86/QuickLyric](https://github.com/geecko86/QuickLyric) - Android app that instantly fetches your lyrics for you.
 * [evernote/evernote-sdk-java](https://github.com/evernote/evernote-sdk-java) - Evernote SDK for Java
-* [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 * [agoncal/agoncal-application-petstore-ee6](https://github.com/agoncal/agoncal-application-petstore-ee6) - A Java Petstore using the Java EE 6
 * [SKCraft/Launcher](https://github.com/SKCraft/Launcher) - Deploy modpacks easily -- no special hosting required!
 * [pholser/jopt-simple](https://github.com/pholser/jopt-simple) - Java library for parsing command line options
@@ -968,7 +1010,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [jenkinsci/github-plugin](https://github.com/jenkinsci/github-plugin) - Jenkins GitHub plugin
 * [fabioz/Pydev](https://github.com/fabioz/Pydev) - Python IDE for Eclipse
 * [code-disaster/steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin Java wrapper to access the Steamworks API
-* [austinv11/Discord4J](https://github.com/austinv11/Discord4J) - Java interface for the Discord API
 * [pengrad/java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - Java API for Telegram Bots and Gaming Platform
 * [jreijn/spring-comparing-template-engines](https://github.com/jreijn/spring-comparing-template-engines) - Demo project to show different Java templating engines in combination with Spring MVC
 * [Comcast/jrugged](https://github.com/Comcast/jrugged) - A Java libary of robustness design patterns
@@ -1034,7 +1075,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [simbiose/Encryption](https://github.com/simbiose/Encryption) - Encryption is a simple way to encrypt and decrypt strings on Android and Java project.
 * [nativelibs4java/BridJ](https://github.com/nativelibs4java/BridJ) - BridJ: blazing fast Java / C / C++ interop
 * [bmwcarit/barefoot](https://github.com/bmwcarit/barefoot) - Java library for integrating the map into software and services with state-of-the-art online and offline map matching that can be used stand-alone and in the cloud.
-* [benwilcock/microservice-sampler](https://github.com/benwilcock/microservice-sampler) - A Java Microservice & CQRS Demo using Spring Boot, Axon & Docker
 * [bbottema/simple-java-mail](https://github.com/bbottema/simple-java-mail) - Simple API, Complex Emails (JavaMail smtp wrapper)
 * [spring-projects/spring-data-cassandra](https://github.com/spring-projects/spring-data-cassandra) - Provides support to increase developer productivity in Java when using Apache Cassandra.  Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * [ptnplanet/Java-Naive-Bayes-Classifier](https://github.com/ptnplanet/Java-Naive-Bayes-Classifier) - A java classifier based on the naive Bayes approach.
@@ -1192,7 +1232,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [dblock/waffle](https://github.com/dblock/waffle) - Enable drop-in Windows Single Sign On for popular Java web servers.
 * [javaslang/javaslang-circuitbreaker](https://github.com/javaslang/javaslang-circuitbreaker) - A lightweight, easy-to-use fault tolerance library designed for Java8 and functional programming based on javaslang.
 * [StripesFramework/stripes](https://github.com/StripesFramework/stripes) - Stripes is a Java framework with the goal of making Servlet/JSP based web development in Java as easy, intuitive and straight-forward as it should be. It's stripey and it doesn't suck.
-* [continuuity/weave](https://github.com/continuuity/weave) - Weave : Running YARN apps is as easy as running Java threads.
 * [ysc/HtmlExtractor](https://github.com/ysc/HtmlExtractor) - HtmlExtractor是一个Java实现的基于模板的网页结构化信息精准抽取组件。
 * [mheath/adbcj](https://github.com/mheath/adbcj) - Asynchronous Database Connectivity in Java
 * [mcfunley/juds](https://github.com/mcfunley/juds) - A Unix domain socket library for Java
@@ -1500,7 +1539,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [lucasr/twoway-view](https://github.com/lucasr/twoway-view) - RecyclerView made simple
 * [fernandezpablo85/scribe-java](https://github.com/fernandezpablo85/scribe-java) - Simple OAuth library for Java
 * [wyouflf/xUtils](https://github.com/wyouflf/xUtils) - android orm, bitmap, http, view inject...
-* [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * [JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!
 * [springside/springside4](https://github.com/springside/springside4) - A Spring Framework based, pragmatic style JavaEE application reference architecture.
 * [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -1780,7 +1818,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [geometer/FBReaderJ](https://github.com/geometer/FBReaderJ) - Official FBReaderJ project repository
 * [hmkcode/Android](https://github.com/hmkcode/Android) - Android related examples
 * [gabrielemariotti/RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators) - An Android library which provides simple Item animations to RecyclerView items
-* [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 * [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 * [twitter/elephant-bird](https://github.com/twitter/elephant-bird) - Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 * [jgilfelt/android-mapviewballoons](https://github.com/jgilfelt/android-mapviewballoons) - [DEPRECATED] Simple information balloon annotation for Android MapView
@@ -1877,7 +1914,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [FasterXML/jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * [expectedbehavior/gauges-android](https://github.com/expectedbehavior/gauges-android) - Gaug.es Android App
 * [emilsjolander/sprinkles](https://github.com/emilsjolander/sprinkles) - Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications
-* [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
 * [alibaba/cobar](https://github.com/alibaba/cobar) - 基于MySQL的分布式数据库服务中间件
 * [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
 * [Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager) - Android auto scroll viewpager or viewpager in viewpager
@@ -1958,7 +1994,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [woozzu/IndexableListView](https://github.com/woozzu/IndexableListView) - iPhone like fast scroll ListView on Android
 * [killme2008/Metamorphosis](https://github.com/killme2008/Metamorphosis) - A  high available,high performance distributed messaging system.
 * [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
-* [OpenGrok/OpenGrok](https://github.com/OpenGrok/OpenGrok) - Main {OpenGrok git repository
 * [JakeWharton/Android-DirectionalViewPager](https://github.com/JakeWharton/Android-DirectionalViewPager) - [DEPRECATED] Implementation of the compatibility library ViewPager class that supports paging both vertically and horizontally.
 * [VoltDB/voltdb](https://github.com/VoltDB/voltdb) - VoltDB
 * [cgeo/cgeo](https://github.com/cgeo/cgeo) - c:geo - The powerful Android geocaching app.
@@ -1980,7 +2015,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow) - A cool Open Source CoverFlow view for Android with several fancy effects.
 * [glyptodon/guacamole-client](https://github.com/glyptodon/guacamole-client) - The HTML5/JavaScript Guacamole client, its containing web application, and related components.
 * [sqlcipher/android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
-* [j256/ormlite-android](https://github.com/j256/ormlite-android) - ORMLite Android functionality used in conjunction with ormlite-core
 * [apache/incubator-zeppelin](https://github.com/apache/incubator-zeppelin) - Mirror of Apache Zeppelin (Incubating)
 * [hoang8f/android-segmented-control](https://github.com/hoang8f/android-segmented-control) - ios7 UISegmentedControl for android
 * [erikwt/PullToRefresh-ListView](https://github.com/erikwt/PullToRefresh-ListView) - A generic, customizable, open source Android ListView implementation that has 'Pull to Refresh' functionality.
@@ -2136,5 +2170,4 @@ A curated list of awesome Java frameworks, libraries and software.
 * [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
 * [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 * [SimonVT/android-numberpicker](https://github.com/SimonVT/android-numberpicker) - A backport of the Android 4.2 NumberPicker
-* [galenframework/galen](https://github.com/galenframework/galen) - Layout and functional testing framework for websites
 * [alibaba/zeus](https://github.com/alibaba/zeus) - Hadoop作业平台
