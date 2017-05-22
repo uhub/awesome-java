@@ -2,6 +2,7 @@
 
 A curated list of awesome Java frameworks, libraries and software.
 
+* [picocli](http://picocli.info) - Annotation based command line parser with strong typing for both options and positional args and support for git-like subcommands. Usage help with ANSI colors. Easily included as source to avoid external dependencies.
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 * [square/retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
