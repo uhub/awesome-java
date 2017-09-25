@@ -2258,3 +2258,4 @@ A curated list of awesome Java frameworks, libraries and software.
 * [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
 * [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 * [SimonVT/android-numberpicker](https://github.com/SimonVT/android-numberpicker) - A backport of the Android 4.2 NumberPicker
+* [keepcosmos/beanmother](https://github.com/keepcosmos/beanmother) - A library for setting up Java Bean as test data.
