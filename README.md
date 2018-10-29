@@ -1406,6 +1406,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [uber-common/rave](https://github.com/uber-common/rave) - A data model validation framework that uses java annotation processing.
 * [JeffLi1993/fast-framework](https://github.com/JeffLi1993/fast-framework) - 基于 JDK8 实现的轻量级 Java Web 框架
 * [SonarSource/sonar-java](https://github.com/SonarSource/sonar-java) - :coffee: SonarJava : Java static analyzer for SonarQube & SonarLint
+* [Code Climate/codeclimate](https://github.com/codeclimate/codeclimate) - Code Climate’s engineering process insights and automated code review for GitHub.
 * [mikereedell/sunrisesunsetlib-java](https://github.com/mikereedell/sunrisesunsetlib-java) - Library for computing the sunrise/sunset from GPS coordinates and a date, in Java.
 * [ge0rg/MemorizingTrustManager](https://github.com/ge0rg/MemorizingTrustManager) - A "plugin" for Android Java to allow asking the user about SSL certificates
 * [ContainX/openstack4j](https://github.com/ContainX/openstack4j) - A Fluent OpenStack SDK / Client Library for Java
