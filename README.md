@@ -2491,3 +2491,4 @@ A curated list of awesome Java frameworks, libraries and software.
 * [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
 * [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 * [SimonVT/android-numberpicker](https://github.com/SimonVT/android-numberpicker) - A backport of the Android 4.2 NumberPicker
+* [apache/pulsar](https://github.com/apache/pulsar) - A distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
