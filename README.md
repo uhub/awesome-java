@@ -2,6 +2,7 @@
 
 A curated list of awesome Java frameworks, libraries and software.
 
+* [sizovs/PipelinR](https://github.com/sizovs/PipelinR) – A lightweight command processing pipeline ❍ ⇢ ❍ ⇢ ❍ for your Java awesome app. 
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 * [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 * [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
