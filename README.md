@@ -2639,3 +2639,4 @@ A curated list of awesome Java frameworks, libraries and software.
 * [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 * [SimonVT/android-numberpicker](https://github.com/SimonVT/android-numberpicker) - A backport of the Android 4.2 NumberPicker
 * [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management
+* [eBay/json-comparison](https://github.com/eBay/json-comparison/) - Powerful JSON comparison tool for identifying all the changes within JSON files
