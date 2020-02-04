@@ -92,28 +92,15 @@ A curated list of awesome Java frameworks, libraries and software.
 * [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 * [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) - A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.
 * [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
-* [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
-* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
-* [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits.
-* [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
-* [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
-* [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
-* [cats-oss/android-gpuimage](https://github.com/cats-oss/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
-* [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
-* [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
 * [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
 * [swagger-api/swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * [google/android-classyshark](https://github.com/google/android-classyshark) - Analyze any Android/Java based app or game
-* [apache/storm](https://github.com/apache/storm) - Mirror of Apache Storm
-* [rey5137/material](https://github.com/rey5137/material) - A library to bring fully animated Material Design components to pre-Lolipop Android.
 * [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
 * [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
-* [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
 * [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 * [DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
 * [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 * [google/j2objc](https://github.com/google/j2objc) - A Java to iOS Objective-C translation tool and runtime.
-* [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 * [facebook/rebound](https://github.com/facebook/rebound) - A Java library that models spring dynamics and adds real world physics to your app.
 * [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 * [evant/gradle-retrolambda](https://github.com/evant/gradle-retrolambda) - A gradle plugin for getting java lambda support in java 6, 7 and android
@@ -121,7 +108,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
 * [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
 * [AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client) - Asynchronous Http and WebSocket Client library for Java
-* [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
 * [processing/processing](https://github.com/processing/processing) - Source code for the Processing Core and Development Environment (PDE)
 * [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 * [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
@@ -203,13 +189,13 @@ A curated list of awesome Java frameworks, libraries and software.
 * [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java.
 * [CalebFenton/simplify](https://github.com/CalebFenton/simplify) - Android virtual machine and deobfuscator
 * [ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar) - UI form validation library for Android
-* [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS.
 * [sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
+* [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android) - The missing Android blurring library. Fast blur-behind layout that parallels iOS.
 * [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 * [apache/camel](https://github.com/apache/camel) - Apache Camel
 * [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - Vespa is an engine for low-latency computation over large data sets.
-* [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
 * [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+* [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
 * [kevinsawicki/http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 * [jfinal/jfinal](https://github.com/jfinal/jfinal) - JAVA WEB + ORM Framework
 * [bytedeco/javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
@@ -230,13 +216,13 @@ A curated list of awesome Java frameworks, libraries and software.
 * [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
 * [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * [apache/shiro](https://github.com/apache/shiro) - Mirror of Apache Shiro
-* [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView) - Hi，Developer，Welcome to use SuperTextView ！
 * [ZHENFENG13/spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) - 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
+* [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView) - Hi，Developer，Welcome to use SuperTextView ！
 * [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
 * [eclipse/jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
-* [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 * [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
+* [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 * [WritingMinds/ffmpeg-android-java](https://github.com/WritingMinds/ffmpeg-android-java) - Android java library for FFmpeg binary compiled using https://github.com/writingminds/ffmpeg-android
 * [yusugomori/DeepLearning](https://github.com/yusugomori/DeepLearning) - Deep Learning (Python, C, C++, Java, Scala, Go)
 * [florent37/ExpectAnim](https://github.com/florent37/ExpectAnim) - Describe your animation and run !
@@ -248,8 +234,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [coobird/thumbnailator](https://github.com/coobird/thumbnailator) - Thumbnailator - a thumbnail generation library for Java
 * [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 * [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
-* [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see
 * [web3j/web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
+* [guoguibing/librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems, see
 * [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 * [promeG/TinyPinyin](https://github.com/promeG/TinyPinyin) - 适用于Java和Android的快速、低内存占用的汉字转拼音库。
 * [lizhangqu/CoreLink](https://github.com/lizhangqu/CoreLink) - Android 开发中的日常积累
@@ -258,9 +244,9 @@ A curated list of awesome Java frameworks, libraries and software.
 * [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) - Distributed Scheduled Job Framework
 * [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
 * [google/binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
-* [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) - 图片选择库，单选/多选、拍照、裁剪、压缩，自定义。包括视频选择和录制。
-* [pedrovgs/Algorithms](https://github.com/pedrovgs/Algorithms) - Solutions for some common algorithm problems written in Java.
 * [liuyubobobo/Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms) - Codes of my MOOC Course <Play with Algorithms>, Both in C++ and Java language. Updated contents and practices are also included. 我在慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。
+* [pedrovgs/Algorithms](https://github.com/pedrovgs/Algorithms) - Solutions for some common algorithm problems written in Java.
+* [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) - 图片选择库，单选/多选、拍照、裁剪、压缩，自定义。包括视频选择和录制。
 * [AweiLoveAndroid/CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge) - :octocat::fire: :star2::star::star::star: :star:  史上最全的BAT大厂Android面试题汇集，以及常用的Android开发的一些技能点，冷门知识点汇总，开发中遇到的坑汇总等干货。
 * [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
 * [LWJGL/lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR) applications.
@@ -269,17 +255,17 @@ A curated list of awesome Java frameworks, libraries and software.
 * [balysv/material-menu](https://github.com/balysv/material-menu) - Animations for Android L drawer, back, dismiss and check icons
 * [r0adkll/Slidr](https://github.com/r0adkll/Slidr) - Easily add slide to dismiss functionality to an Activity
 * [lenve/JavaEETest](https://github.com/lenve/JavaEETest) - Spring、SpringMVC、MyBatis、Spring Boot案例
-* [szerhusenBC/jwt-spring-security-demo](https://github.com/szerhusenBC/jwt-spring-security-demo) - A demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2
 * [Red5/red5-server](https://github.com/Red5/red5-server) - Red5 Server core
+* [szerhusenBC/jwt-spring-security-demo](https://github.com/szerhusenBC/jwt-spring-security-demo) - A demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2
 * [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
 * [spring-projects/spring-loaded](https://github.com/spring-projects/spring-loaded) - Java agent that enables class reloading in a running JVM
 * [Twitter4J/Twitter4J](https://github.com/Twitter4J/Twitter4J) - Twitter4J is an open-sourced, mavenized and Google App Engine safe Java library for the Twitter API which is released under the Apache License 2.0.
-* [javaee-samples/javaee7-samples](https://github.com/javaee-samples/javaee7-samples) - Java EE 7 Samples
 * [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - An open source routing engine. Use it as Java library or server. With OpenStreetMap.
+* [javaee-samples/javaee7-samples](https://github.com/javaee-samples/javaee7-samples) - Java EE 7 Samples
 * [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions
 * [line/armeria](https://github.com/line/armeria) - Asynchronous RPC/REST library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC
-* [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 🔥可以根据图片内容变阴影颜色，更加细腻的阴影效果  It can change color according to the picture, more delicate shadow effect
 * [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki on Android
+* [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 🔥可以根据图片内容变阴影颜色，更加细腻的阴影效果  It can change color according to the picture, more delicate shadow effect
 * [VictorAlbertos/RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [microg/android_packages_apps_GmsCore](https://github.com/microg/android_packages_apps_GmsCore) - Implementation of Play Services Core package
 * [square/tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
@@ -291,8 +277,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [balysv/material-ripple](https://github.com/balysv/material-ripple) - Android L Ripple effect wrapper for Views
 * [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
 * [mongodb/mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - The Java driver for MongoDB
-* [FudanNLP/fnlp](https://github.com/FudanNLP/fnlp) - 中文自然语言处理工具包 Toolkit for Chinese natural language processing
 * [Krupen/FabulousFilter](https://github.com/Krupen/FabulousFilter) - Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+* [FudanNLP/fnlp](https://github.com/FudanNLP/fnlp) - 中文自然语言处理工具包 Toolkit for Chinese natural language processing
 * [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 * [nutzam/nutz](https://github.com/nutzam/nutz) - Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer
 * [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3D game development suite written purely in Java.
@@ -301,6 +287,20 @@ A curated list of awesome Java frameworks, libraries and software.
 * [eclipse/openj9](https://github.com/eclipse/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * [brianway/webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
 * [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
+* [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
+* [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:便捷的通用增删改查,强大的权限管理,动态多数据源,动态表单,在线数据库维护等. 基于 spring-boot,mybaits.
+* [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+* [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
+* [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+* [cats-oss/android-gpuimage](https://github.com/cats-oss/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
+* [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
+* [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
+* [apache/storm](https://github.com/apache/storm) - Mirror of Apache Storm
+* [rey5137/material](https://github.com/rey5137/material) - A library to bring fully animated Material Design components to pre-Lolipop Android.
+* [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
+* [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
+* [JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache) - Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
 * [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.
 * [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
 * [jOOQ/jOOR](https://github.com/jOOQ/jOOR) -  jOOR - Fluent Reflection in Java jOOR is a very simple fluent API that gives access to your Java Class structures in a more intuitive way. The JDK's reflection APIs are hard and verbose to use. Other languages have much simpler constructs to access type meta information at runtime. Let us make Java reflection better.
