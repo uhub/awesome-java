@@ -2,6 +2,7 @@
 
 A curated list of awesome Java frameworks, libraries and software.
 
+* [ActiveJ/ActiveJ](https://github.com/activej/activej) - Alternative high-performance platform built from the ground up for web, cloud, high-load, and microservices solutions.
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
