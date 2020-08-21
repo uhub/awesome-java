@@ -922,3 +922,4 @@ A curated list of awesome Java frameworks, libraries and software.
 * [naver/pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 * [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 * [apache/groovy](https://github.com/apache/groovy) - Mirror of Apache Groovy
+* [olivomarco/lc4j](https://github.com/olivomarco/lc4j) - NLP library for finding the language in which a text is written.
