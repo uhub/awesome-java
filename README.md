@@ -1,6 +1,6 @@
 # awesome-java
 
-A curated list of awesome Java frameworks, libraries and software.
+A curated list of awesome and amazing Java frameworks, libraries and software.
 
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
