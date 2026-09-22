@@ -1,6 +1,6 @@
 # awesome-java
 
-A curated list of awesome Java frameworks, libraries and software.
+A curated list of awesome and amazing Java frameworks, libraries and software.
 
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
